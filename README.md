@@ -8,7 +8,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/gajjarswetang)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gajjarswetang@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Live-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://github.com/SGajjar24)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Live-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://github.com/SGajjar24/portfolio)
 
 </div>
 
@@ -36,65 +36,50 @@ class SwetangGajjar:
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Technical Arsenal
 
-### AI & Machine Learning
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-121212?style=flat-square&logo=chainlink&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini_Pro-4285F4?style=flat-square&logo=google&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![FAISS](https://img.shields.io/badge/FAISS-00599C?style=flat-square&logo=meta&logoColor=white)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B6B?style=flat-square)
+<div align="center">
 
-### Engineering & Cloud
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+| Domain | Technologies |
+|:---|:---|
+| **AI/ML** | LangChain, FAISS, Gemini 1.5 Pro, RAG Architectures |
+| **Languages** | Python, TypeScript, C++ |
+| **Frontend** | React, Next.js, Tailwind CSS |
+| **Backend** | Flask, FastAPI, Firebase |
+| **Cloud** | Google Cloud, AWS, Vertex AI |
+| **Defense** | MIL-STD-130N, ITAR, AS9100D Compliance |
 
-### Frontend & Visualization
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+</div>
 
 ---
 
-## 📌 Featured Projects
+## 🔥 Featured Projects
 
-### 🔍 [Legal-Document-RAG-Starter](https://github.com/SGajjar24/legal-document-rag-starter)
-**Production-Ready RAG Template for Legal Document Analysis**
-- 🎯 Hybrid Retrieval (BM25 + Dense Vector) achieving 95% recall on legal contradictions
-- 📄 Multi-Agent Architecture: Investigator → Critic → Drafter
-- 🔐 Privacy-First: Local FAISS deployment, GDPR compliant
+### 🔴 [THIRD-EYE](https://github.com/SGajjar24/THIRD-EYE) | Gemini Hackathon Winner
+AI-Powered Security & Content Authenticity Platform using Gemini Vision Pro for real-time deepfake detection.
 
-**Stack:** `Python` `LangChain` `FAISS` `Gemini Pro`
+**Stack:** `Python` `Gemini Vision Pro` `Streamlit` `FAISS`
 
 ---
 
-### 🛡️ [THIRD-EYE](https://github.com/SGajjar24/THIRD-EYE)
-**AI-Powered Security & Content Authenticity Platform** (Gemini Hackathon Winner)
-- 🤖 Synthetic Content Detection (88%+ accuracy on deepfake text)
-- 📊 Security Posture Scoring via CSP/Permissions-Policy analysis
-- 🎨 Modern React UI with Glassmorphism design
+### ⚖️ [Legal Document RAG Starter](https://github.com/SGajjar24/legal-document-rag-starter)
+Production-ready RAG system for legal document analysis with 95%+ recall on contradiction detection.
 
-**Stack:** `React 18` `TypeScript` `Gemini 2.5 Flash` `Gemini 3 Pro`
+**Stack:** `LangChain` `FAISS` `Python` `Gemini`
 
 ---
 
-### ⚖️ [Fraud-Detection-Skills-Library](https://github.com/SGajjar24/fraud-detection-skills-library)
-**Codified Legal Heuristics for AI Compliance Auditing**
-- 💀 "Dead Man Alive" temporal fraud detector
-- 📜 Section 17 Registration Act compliance validator
-- 🧾 Stamp Duty & "Blank Paper" (kora kagalo) fraud detection
+### 🕵️ [Fraud Detection Skills Library](https://github.com/SGajjar24/fraud-detection-skills-library)
+Codified legal heuristics for AI-powered compliance auditing. Tested on 3 active Gujarat High Court cases.
 
-**Stack:** `Python` `Regex` `Legal Domain Logic`
+**Stack:** `Python` `Pydantic` `Legal NLP`
 
 ---
 
-### 🌍 [CanadaPath AI](https://github.com/SGajjar24/canadapath-ai)
-**AI-Powered Immigration Pathways Assistant**
-- 🗂️ Multi-pathway eligibility scoring (Express Entry, PNP, LMIA)
+### 🍁 [CanadaPath AI](https://github.com/SGajjar24/canadapath-ai) | [Live Demo](https://canadapath-ai.web.app)
+AI-powered Canadian immigration guidance with CRS calculator and eligibility assessment.
+
+- 🧮 Express Entry, PNP, and LMIA pathway analysis
 - 🤖 Gemini 1.5 Pro powered chatbot for immigration queries
 - 📊 Firebase-backed dashboard for case tracking
 
