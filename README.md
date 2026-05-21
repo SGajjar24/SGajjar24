@@ -146,6 +146,26 @@ class SwetangGajjar(SeniorAIArchitect, SystemsEngineer):
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=SGajjar24&theme=react-dark&hide_border=true&bg_color=0d1117&color=00D9FF&line=8B5CF6&point=00D9FF&area=true&area_color=8B5CF6" width="100%" alt="Activity Graph" />
 
+<br/><br/>
+
+### 🐍 Contribution Grid Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SGajjar24/SGajjar24/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SGajjar24/SGajjar24/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/SGajjar24/SGajjar24/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Grid Snake" width="100%" />
+</picture>
+
+<br/><br/>
+
+### 📊 3D Contribution Landscape
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-rainbow.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-gitblock.svg" />
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" width="100%" />
+</picture>
+
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0d1117,00d9ff,8b5cf6,0d1117&height=2" width="100%"/>
