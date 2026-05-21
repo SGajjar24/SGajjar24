@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:8B5CF6&height=200&section=header&text=SWETANG%20GAJJAR&fontSize=42&fontAlignY=35&desc=Lead%20AI%20Architect%20%7C%20Engineering%20Manager%20%7C%20Defense%20Systems%20Expert&descAlignY=55&descSize=16&fontColor=FFFFFF&animation=fadeIn&v=1.2" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:8B5CF6&height=200&section=header&text=SWETANG%20GAJJAR&fontSize=42&fontAlignY=35&desc=Lead%20AI%20Architect%20%7C%20Engineering%20Manager%20%7C%20Defense%20Systems%20Expert&descAlignY=55&descSize=16&fontColor=FFFFFF&animation=fadeIn&v=1.3" width="100%" />
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00D9FF&background=0D111700&center=true&vCenter=true&width=650&lines=Senior+AI%2FML+Architect+%7C+12%2B+Years;RAG+%26+LLM+Systems+Specialist;Defense+Systems+Engineer+%28ITAR%2C+MIL-STD%29;Full-Stack+React+19+%26+TypeScript+Architect;Independent+AI+Consultant+%7C+Open+to+Remote&v=1.2" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00D9FF&background=0D111700&center=true&vCenter=true&width=650&lines=Senior+AI%2FML+Architect+%7C+12%2B+Years;RAG+%26+LLM+Systems+Specialist;Defense+Systems+Engineer+%28ITAR%2C+MIL-STD%29;Full-Stack+React+19+%26+TypeScript+Architect;Independent+AI+Consultant+%7C+Open+to+Remote&v=1.3" alt="Typing SVG" />
 
 <br/>
 
@@ -20,12 +20,12 @@
 <br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=SGajjar24&color=00D9FF&style=for-the-badge&label=PROFILE+VIEWS)
-![GitHub Followers](https://img.shields.io/github/followers/SGajjar24?style=for-the-badge&color=8B5CF6&labelColor=0D1117&label=FOLLOWERS&v=1.2)
-![GitHub Stars](https://img.shields.io/github/stars/SGajjar24?affiliations=OWNER&style=for-the-badge&color=F59E0B&labelColor=0D1117&label=TOTAL+STARS&v=1.2)
+![GitHub Followers](https://img.shields.io/github/followers/SGajjar24?style=for-the-badge&color=8B5CF6&labelColor=0D1117&label=FOLLOWERS&v=1.3)
+![GitHub Stars](https://img.shields.io/github/stars/SGajjar24?affiliations=OWNER&style=for-the-badge&color=F59E0B&labelColor=0D1117&label=TOTAL+STARS&v=1.3)
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00D9FF,100:8B5CF6&height=2&v=1.2" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00D9FF,100:8B5CF6&height=2&v=1.3" width="100%"/>
 
 ## :rocket: About Me
 
@@ -70,7 +70,7 @@ class SwetangGajjar(SeniorAIArchitect, SystemsEngineer):
   <sub><i>Interactive Systems Infographic: The Duality of Physical Architecture, GenAI RAG Pipelines, and Industrial Control Systems.</i></sub>
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00D9FF,100:8B5CF6&height=2&v=1.2" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00D9FF,100:8B5CF6&height=2&v=1.3" width="100%"/>
 
 ## :bar_chart: Enterprise Technical Performance & Metrics
 
@@ -104,7 +104,7 @@ class SwetangGajjar(SeniorAIArchitect, SystemsEngineer):
 </table>
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00D9FF,100:8B5CF6&height=2&v=1.2" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00D9FF,100:8B5CF6&height=2&v=1.3" width="100%"/>
 
 ## :star2: Elite Engineering Milestones
 
@@ -122,22 +122,22 @@ class SwetangGajjar(SeniorAIArchitect, SystemsEngineer):
   </tr>
   <tr>
     <td><b>🛡️ Military & Defense Engineering</b><br/><sub>ITAR Compliance, MIL-STD-130N, AS9100D, Real-Time C++</sub></td>
-    <td><code>████████████████████████████████░░</code> <b>95%</b></td>
+    <td><code>█████████████████████████████████░░</code> <b>95%</b></td>
     <td align="center"><img src="https://img.shields.io/badge/Level-Expert-1E3A8A?style=flat-square" alt="Expert Level" /></td>
   </tr>
   <tr>
     <td><b>🔤 Bilingual OCR & NLP Pipelines</b><br/><sub>Neural Gujarati-English OCR, OpenCV, AI Post-Correction</sub></td>
-    <td><code>████████████████████████████████░░</code> <b>94%</b></td>
+    <td><code>█████████████████████████████████░░</code> <b>94%</b></td>
     <td align="center"><img src="https://img.shields.io/badge/Level-Expert-0D9488?style=flat-square" alt="Expert Level" /></td>
   </tr>
   <tr>
     <td><b>💎 Cloud Architecture & Cost Optimization</b><br/><sub>AWS/Azure Infrastructure, Cloud Cost Modeling, Re-architecting</sub></td>
-    <td><code>██████████████████████████████░░░░</code> <b>90%</b></td>
+    <td><code>███████████████████████████████░░░░</code> <b>90%</b></td>
     <td align="center"><img src="https://img.shields.io/badge/Level-Advanced-7C3AED?style=flat-square" alt="Advanced Level" /></td>
   </tr>
   <tr>
     <td><b>👑 Product Leadership & Execution</b><br/><sub>Managing Teams of 5+, Overseeing 15+ Core Enterprise Releases</sub></td>
-    <td><code>███████████████████████████████░░░</code> <b>92%</b></td>
+    <td><code>████████████████████████████████░░░</code> <b>92%</b></td>
     <td align="center"><img src="https://img.shields.io/badge/Level-Lead-D97706?style=flat-square" alt="Lead Level" /></td>
   </tr>
   <tr>
@@ -148,7 +148,7 @@ class SwetangGajjar(SeniorAIArchitect, SystemsEngineer):
 </table>
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00D9FF,100:8B5CF6&height=2&v=1.2" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00D9FF,100:8B5CF6&height=2&v=1.3" width="100%"/>
 
 ## :briefcase: Professional Timeline & Experience
 
@@ -162,7 +162,7 @@ class SwetangGajjar(SeniorAIArchitect, SystemsEngineer):
 
 > *Full professional chronology, portfolio media, and client details are available on my [LinkedIn Profile](https://www.linkedin.com/in/gajjarswetang/).*
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00D9FF,100:8B5CF6&height=2&v=1.2" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00D9FF,100:8B5CF6&height=2&v=1.3" width="100%"/>
 
 ## :star: Flagship AI Project Spotlight
 
@@ -176,16 +176,16 @@ A sophisticated, multi-agent RAG system designed for deep forensic analysis of c
 *   **Hybrid Multilingual Processing**: Full OCR pipeline support for bilingual Gujarati-English texts with transformer-based post-correction.
 *   **Tech Stack**: `Gemini 2.5 Flash/Pro` | `NotebookLM` | `Python` | `Vector Databases (FAISS)` | `Langflow` | `LangChain` | `MCP/Antigravity`
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00D9FF,100:8B5CF6&height=2&v=1.2" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00D9FF,100:8B5CF6&height=2&v=1.3" width="100%"/>
 
 ## :hammer_and_wrench: Complete Technical Stack & Systems Matrix
 
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python,ts,react,nextjs,tailwind,vite,nodejs,fastapi,firebase,aws,azure,docker,cpp,cs,tensorflow,opencv,git,github,vscode,figma&perline=10&theme=dark&v=1.2" />
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=python,ts,react,nextjs,tailwind,vite,nodejs,fastapi,firebase,aws,azure,docker,cpp,cs,tensorflow,opencv,git,github,vscode,figma&perline=10&theme=light&v=1.2" />
-  <img src="https://skillicons.dev/icons?i=python,ts,react,nextjs,tailwind,vite,nodejs,fastapi,firebase,aws,azure,docker,cpp,cs,tensorflow,opencv,git,github,vscode,figma&perline=10&theme=dark&v=1.2" alt="Tech Stack" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python,ts,react,nextjs,tailwind,vite,nodejs,fastapi,firebase,aws,azure,docker,cpp,cs,tensorflow,opencv,git,github,vscode,figma&perline=10&theme=dark&v=1.3" />
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=python,ts,react,nextjs,tailwind,vite,nodejs,fastapi,firebase,aws,azure,docker,cpp,cs,tensorflow,opencv,git,github,vscode,figma&perline=10&theme=light&v=1.3" />
+  <img src="https://skillicons.dev/icons?i=python,ts,react,nextjs,tailwind,vite,nodejs,fastapi,firebase,aws,azure,docker,cpp,cs,tensorflow,opencv,git,github,vscode,figma&perline=10&theme=dark&v=1.3" alt="Tech Stack" />
 </picture>
 
 </div>
@@ -198,69 +198,82 @@ An exhaustive, domain-by-domain mapping of my software development engineering c
   <tr>
     <td width="50%" valign="top">
       <h3>🤖 Generative AI & Agentic Core</h3>
-      
-*   **Orchestration & Frameworks**: `LangChain` | `LangGraph` | `Langflow` | `LlamaIndex`
-*   **Large Language Models**: `Gemini 2.5 Pro & Flash` | `NotebookLM` | `GPT-4o` | `Claude 3.5 Sonnet`
-*   **RAG & Vector Engineering**: `Hybrid Search` | `FAISS` | `ChromaDB` | `Pinecone` | `Parent-Document Retrieval`
-*   **Retrieval Optimization**: `Zero-Hallucination Guardrails` | `Verifiable Court Citation Parsing` | `Context Re-ranking`
-*   **AI Fine-Tuning**: `LoRA / QLoRA` | `LLM Quantization` | `Prompt Engineering`  
-![Proficiency](https://img.shields.io/badge/Expertise-Elite-00D9FF?style=flat-square)
+      <ul>
+        <li><b>Orchestration & Frameworks:</b> <code>LangChain</code> | <code>LangGraph</code> | <code>Langflow</code> | <code>LlamaIndex</code> | <code>CrewAI</code></li>
+        <li><b>Agentic Design Patterns:</b> <code>Self-Correcting RAG Loops</code> | <code>DSPy (Programming Foundation Models)</code> | <code>Multi-Agent Task Routing</code></li>
+        <li><b>Large Language Models:</b> <code>Gemini 2.5 Pro & Flash</code> | <code>DeepSeek R1/V3 (Reasoning Models)</code> | <code>Claude 3.5 Sonnet</code> | <code>GPT-4o</code></li>
+        <li><b>RAG & Vector Engineering:</b> <code>Hybrid Lexical-Semantic Search</code> | <code>FAISS</code> | <code>ChromaDB</code> | <code>Pinecone</code> | <code>PGVector</code></li>
+        <li><b>Retrieval & Guardrails:</b> <code>Zero-Hallucination Grounding</code> | <code>Parent-Document Retrieval</code> | <code>Reciprocal Rank Fusion (RRF)</code> | <code>Cohere ReRank</code> | <code>BGE-Reranker</code></li>
+        <li><b>Context & Safety:</b> <code>Semantic & Recursive Chunking</code> | <code>Source-Citing Verification Pipelines</code> | <code>Llama Guard</code></li>
+      </ul>
+      <br/>
+      <img src="https://img.shields.io/badge/Expertise-Elite-00D9FF?style=flat-square&v=1.3" alt="Proficiency" />
     </td>
     <td width="50%" valign="top">
       <h3>👁️ Machine Vision & OCR Engineering</h3>
-      
-*   **Script Processing**: `Gujarati-English Neural OCR` | `Bilingual Script Recognition` | `Ligature Analysis`
-*   **Vision & Image Processing**: `OpenCV` | `Tesseract OCR` | `EasyOCR` | `PIL (Pillow)`
-*   **Deep Learning Models**: `TensorFlow` | `Keras` | `Convolutional Neural Networks (CNNs)` | `PyTorch`
-*   **Digital Signal Processing**: `Spatial Filtering` | `Dynamic Thresholding` | `Perspective Warp Rectification`
-*   **Data Correction**: `LSTM-based Spelling Correction` | `Transformers NLP Post-Correction`  
-![Proficiency](https://img.shields.io/badge/Expertise-Expert-0D9488?style=flat-square)
+      <ul>
+        <li><b>Pre-processing & Enhancement:</b> <code>Otsu's Adaptive Binarization</code> | <code>Morphological Operations (Dilation/Erosion)</code> | <code>Gaussian & Bilateral Filtering</code></li>
+        <li><b>Perspective & Geometry:</b> <code>Homography Matrices</code> | <code>OpenCV warpPerspective</code> | <code>Contour Detection & Poly-Approximation</code></li>
+        <li><b>Multilingual Neural OCR:</b> <code>Bilingual (Gujarati-English) Scripts</code> | <code>Compound Character / Ligature Segmentations</code></li>
+        <li><b>Sequence & Language Models:</b> <code>CRNN (CNN + BiLSTM) Sequence Learning</code> | <code>Seq2Seq NLP Neural Post-Correction</code> | <code>Levenshtein Spelling Heuristics</code></li>
+        <li><b>Frameworks & Engines:</b> <code>Tesseract OCR (Custom C++ Compilations)</code> | <code>EasyOCR (CRAFT Detection)</code> | <code>PaddleOCR</code> | <code>OpenCV (C++/Python)</code></li>
+      </ul>
+      <br/>
+      <img src="https://img.shields.io/badge/Expertise-Expert-0D9488?style=flat-square&v=1.3" alt="Proficiency" />
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h3>🛡️ Defense & Systems Engineering</h3>
-      
-*   **Industrial Standards**: `MIL-STD-130N Standard` | `AS9100D Aerospace QC` | `ISO 9001`
-*   **Security Protocols**: `ITAR Compliance` | `Secured Offline Data Processing` | `Regulatory Defense Archiving`
-*   **Industrial Automation**: `4-Axis Motion Controllers` | `Machine Vision Alignment` | `PLC Integration`
-*   **Serialization Engines**: `High-Throughput UID Generation` | `Industrial Barcode Validation` | `Database Handshaking`
-*   **Systems Programming**: `Real-Time C++ Systems` | `C# .NET Core Industrial Services` | `Multi-Threaded Control`  
-![Proficiency](https://img.shields.io/badge/Expertise-Expert-1E3A8A?style=flat-square)
+      <ul>
+        <li><b>Standards & Certifications:</b> <code>MIL-STD-130N Standard (UID compliance)</code> | <code>AS9100D Aerospace QC</code> | <code>ISO 9001:2015</code></li>
+        <li><b>Marking Technologies:</b> <code>UID Laser Marking</code> | <code>Dot Peen & High-Speed Inkjet Serialization</code></li>
+        <li><b>Compliance & Access:</b> <code>ITAR Compliance (International Traffic in Arms)</code> | <code>Air-Gapped Offline Architectures</code> | <code>Secure Audit Trails</code></li>
+        <li><b>Automation Hardware:</b> <code>4-Axis Motion Controllers (Galil, Trio)</code> | <code>Servo & Stepper Motors (PID Loop Tuning)</code> | <code>PLC Modbus TCP/IP</code></li>
+        <li><b>Systems Programming:</b> <code>Real-Time C++ Control Systems</code> | <code>C# .NET Core Windows Services</code> | <code>Multi-threaded Data Acquisition (DAQ)</code></li>
+      </ul>
+      <br/>
+      <img src="https://img.shields.io/badge/Expertise-Expert-1E3A8A?style=flat-square&v=1.3" alt="Proficiency" />
     </td>
     <td width="50%" valign="top">
       <h3>💻 Core Development & Languages</h3>
-      
-*   **Primary Languages**: `Python` | `TypeScript` | `JavaScript` | `C++` | `C#` | `SQL`
-*   **Scripting & Shells**: `PowerShell Scripting` | `Bash` | `Command-line Automation`
-*   **Data Formats & Serialization**: `JSON-LD Structured Schemas` | `YAML` | `Protocol Buffers (protobuf)` | `XML`
-*   **Database Management**: `PostgreSQL` | `SQLite` | `Firebase Firestore` | `MongoDB` | `Prisma ORM`  
-![Proficiency](https://img.shields.io/badge/Expertise-Elite-4B5563?style=flat-square)
+      <ul>
+        <li><b>Primary Coding:</b> <code>Python 3.12+ (Type Hinting, Asyncio)</code> | <code>C++ 17/20 (STL, Smart Pointers, Memory Management)</code> | <code>C# .NET 8 (TPL, Async/Await)</code> | <code>TypeScript 5+</code></li>
+        <li><b>Backends & Interfaces:</b> <code>FastAPI (Pydantic v2, Dependency Injection)</code> | <code>Node.js (Express, Asynchronous Event Loops)</code> | <code>Prisma ORM</code></li>
+        <li><b>Serialization Formats:</b> <code>JSON-LD Structured Schemas</code> | <code>YAML Configs</code> | <code>Protocol Buffers (Protobuf)</code> | <code>XML</code></li>
+        <li><b>Data Storage & Latency:</b> <code>PostgreSQL (Indexing & Query Optimization)</code> | <code>SQLite (Embedded Application Cache)</code> | <code>Firebase Firestore</code></li>
+      </ul>
+      <br/>
+      <img src="https://img.shields.io/badge/Expertise-Elite-4B5563?style=flat-square&v=1.3" alt="Proficiency" />
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h3>🎨 Frontend Architectures & Design</h3>
-      
-*   **Frameworks & Core**: `React 19` | `Next.js 15 (App Router)` | `Vite` | `HTML5 Canvas API`
-*   **Styling & UI Systems**: `Tailwind CSS v4 & v3` | `Framer Motion` | `Glassmorphism Design Systems` | `Vanilla CSS`
-*   **State & Routing**: `React Context API` | `Zustand` | `Next.js Server Actions`
-*   **SEO & Optimizations**: `JSON-LD Schema Optimization` | `Semantic HTML5 structures` | `Responsive Viewports`  
-![Proficiency](https://img.shields.io/badge/Expertise-Advanced-7C3AED?style=flat-square)
+      <ul>
+        <li><b>Core Frameworks:</b> <code>React 19 (Server Components, Actions API, Suspense)</code> | <code>Next.js 15 (App Router, SSR, SSG, ISR)</code> | <code>Vite 6</code></li>
+        <li><b>Creative UI & Layouts:</b> <code>Tailwind CSS v4.0 (CSS-first config, native CSS variables)</code> | <code>Framer Motion</code> | <code>Glassmorphism UI</code></li>
+        <li><b>Telemetry Visuals:</b> <code>HTML5 Canvas API (Interactive Topologies)</code> | <code>Recharts (Real-time telemetry graphing)</code></li>
+        <li><b>SEO & Optimization:</b> <code>JSON-LD Schema Optimization</code> | <code>Semantic HTML5 structure</code> | <code>Lighthouse 90+ Score Compliance</code></li>
+      </ul>
+      <br/>
+      <img src="https://img.shields.io/badge/Expertise-Advanced-7C3AED?style=flat-square&v=1.3" alt="Proficiency" />
     </td>
     <td width="50%" valign="top">
       <h3>☁️ Clouds, DevOps & Deployments</h3>
-      
-*   **Cloud Architecture**: `AWS Greengrass` | `AWS IoT Core` | `Azure AI Fundamentals` | `Azure Cognitive Services`
-*   **Containerization**: `Docker` | `Microservices Architectures`
-*   **CI/CD & Automation**: `GitHub Actions (YAML workflows)` | `PyPI Package Publishing` | `Vite Bundlers`
-*   **Hosting Platforms**: `Vercel (Primary Serverless)` | `Netlify` | `Firebase Hosting` | `AWS EC2/S3`  
-![Proficiency](https://img.shields.io/badge/Expertise-Advanced-D97706?style=flat-square)
+      <ul>
+        <li><b>Cloud & Edge Architectures:</b> <code>AWS IoT Core & Greengrass Lambda</code> | <code>AWS EC2/S3/IAM Roles</code> | <code>Azure AI Fundamentals & Cognitive Services</code></li>
+        <li><b>Infrastructure & Containers:</b> <code>Docker (Multi-stage Alpine image build optimizations)</code> | <code>Docker Compose</code></li>
+        <li><b>CI/CD Pipelines:</b> <code>GitHub Actions (YAML workflows, automated builds, secret masking)</code> | <code>PyPI Package Publishing (pyproject.toml)</code></li>
+        <li><b>Hosting Platforms:</b> <code>Vercel (Serverless Edge Middleware)</code> | <code>Netlify</code> | <code>Firebase Hosting (Multi-target setups)</code></li>
+      </ul>
+      <br/>
+      <img src="https://img.shields.io/badge/Expertise-Advanced-D97706?style=flat-square&v=1.3" alt="Proficiency" />
     </td>
   </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00D9FF,100:8B5CF6&height=2&v=1.2" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00D9FF,100:8B5CF6&height=2&v=1.3" width="100%"/>
 
 ## :file_folder: Curated Project Showcases
 
@@ -361,7 +374,7 @@ Intelligent draft generator and legal document compiler designed to facilitate i
 
 </details>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00D9FF,100:8B5CF6&height=2&v=1.2" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00D9FF,100:8B5CF6&height=2&v=1.3" width="100%"/>
 
 ## :shield: Key Enterprise & Defense Client Footprint
 
@@ -384,7 +397,7 @@ Engineered mission-critical marking, vision, and industrial automation systems f
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00D9FF,100:8B5CF6&height=2&v=1.2" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00D9FF,100:8B5CF6&height=2&v=1.3" width="100%"/>
 
 ## 📈 GitHub Live Contribution Telemetry
 
@@ -393,9 +406,9 @@ Engineered mission-critical marking, vision, and industrial automation systems f
 ### 🐍 Contribution Grid Arcade
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SGajjar24/SGajjar24/output/github-contribution-grid-snake-dark.svg?v=1.2" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SGajjar24/SGajjar24/output/github-contribution-grid-snake.svg?v=1.2" />
-  <img src="https://raw.githubusercontent.com/SGajjar24/SGajjar24/output/github-contribution-grid-snake.svg?v=1.2" alt="GitHub Contribution Grid Snake" width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SGajjar24/SGajjar24/output/github-contribution-grid-snake-dark.svg?v=1.3" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SGajjar24/SGajjar24/output/github-contribution-grid-snake.svg?v=1.3" />
+  <img src="https://raw.githubusercontent.com/SGajjar24/SGajjar24/output/github-contribution-grid-snake.svg?v=1.3" alt="GitHub Contribution Grid Snake" width="100%" />
 </picture>
 
 <br/>
@@ -404,7 +417,7 @@ Engineered mission-critical marking, vision, and industrial automation systems f
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00D9FF,100:8B5CF6&height=2&v=1.2" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00D9FF,100:8B5CF6&height=2&v=1.3" width="100%"/>
 
 ## :balance_scale: Licensing & Commercial Engagement Terms
 
@@ -416,7 +429,7 @@ The software solutions, design architectures, and research libraries hosted with
     *   📧 **Email**: [gajjarswetang@gmail.com](mailto:gajjarswetang@gmail.com)
     *   🤝 **LinkedIn**: [Swetang Gajjar](https://www.linkedin.com/in/gajjarswetang/)
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00D9FF,100:8B5CF6&height=2&v=1.2" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00D9FF,100:8B5CF6&height=2&v=1.3" width="100%"/>
 
 <div align="center">
 
@@ -431,7 +444,7 @@ Whether you're looking to integrate **military-grade industrial barcode automati
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:8B5CF6&height=120&section=footer&v=1.2" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:8B5CF6&height=120&section=footer&v=1.3" width="100%" />
 
 *"Bridging military-grade systems reliability with advanced Artificial Intelligence — one commit at a time."*
 
