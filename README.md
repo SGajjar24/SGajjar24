@@ -1,14 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0d1117,00d9ff,8b5cf6,0d1117&height=200&section=header&text=SWETANG%20GAJJAR&fontSize=42&fontAlignY=35&desc=Engineering%20Manager%20%7C%20Lead%20AI%20Architect%20%7C%20Defense%20Systems%20Expert&descAlignY=55&descSize=16&fontColor=FFFFFF&animation=twinkling" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0d1117,00d9ff,8b5cf6,0d1117&height=200&section=header&text=SWETANG%20GAJJAR&fontSize=42&fontAlignY=35&desc=Lead%20AI%20Architect%20%7C%20Engineering%20Manager%20%7C%20Defense%20Systems%20Expert&descAlignY=55&descSize=16&fontColor=FFFFFF&animation=fadeIn" width="100%" />
 
 <br/>
 
-<img src="assets/hero-portrait.jpg" alt="Swetang Gajjar" width="180" style="border-radius: 50%; border: 4px solid #00D9FF; box-shadow: 0 0 20px rgba(0, 217, 255, 0.4);" />
-
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00D9FF&background=0A0A0A00&center=true&vCenter=true&width=600&lines=Senior+AI%2FML+Architect;RAG+%26+LLM+Systems+Specialist;Defense+Systems+Engineer;Independent+AI+Consultant" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00D9FF&background=0D111700&center=true&vCenter=true&width=650&lines=Senior+AI%2FML+Architect+%7C+12%2B+Years;RAG+%26+LLM+Systems+Specialist;Defense+Systems+Engineer+%28ITAR%2C+MIL-STD%29;Full-Stack+React+19+%26+TypeScript+Architect;Independent+AI+Consultant+%7C+Open+to+Remote" alt="Typing SVG" />
 
 <br/>
 
@@ -19,17 +15,19 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-Live_Site-0A0A0A?style=for-the-badge&logo=googlechrome&logoColor=white)](https://swetang-portfolio.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gajjarswetang/)
 [![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gajjarswetang@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-SGajjar24-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SGajjar24)
 
 <br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=SGajjar24&color=00D9FF&style=for-the-badge&label=PROFILE+VIEWS)
-![GitHub Followers](https://img.shields.io/github/followers/SGajjar24?style=for-the-badge&color=00D9FF&labelColor=0A0A0A)
+![GitHub Followers](https://img.shields.io/github/followers/SGajjar24?style=for-the-badge&color=8B5CF6&labelColor=0D1117&label=FOLLOWERS)
+![GitHub Stars](https://img.shields.io/github/stars/SGajjar24?affiliations=OWNER&style=for-the-badge&color=F59E0B&labelColor=0D1117&label=TOTAL+STARS)
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0d1117,00d9ff,8b5cf6,0d1117&height=2" width="100%"/>
 
-## 🚀 About Me
+## :rocket: About Me
 
 ```python
 class SwetangGajjar(SeniorAIArchitect, SystemsEngineer):
@@ -41,7 +39,7 @@ class SwetangGajjar(SeniorAIArchitect, SystemsEngineer):
     def __init__(self):
         self.name = "Swetang Gajjar"
         self.role = "Lead Architect & Senior Systems Consultant"
-        self.location = "California, USA"
+        self.location = "India | USA | Open to Remote"
         self.education = "M.S. Computer Engineering | California State University, Fullerton"
         
         self.core_domains = {
@@ -65,141 +63,176 @@ class SwetangGajjar(SeniorAIArchitect, SystemsEngineer):
         self.fun_fact = "Fusing the ancient principles of Vastu Shastra with state-of-the-art agentic AI frameworks!"
 ```
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0d1117,00d9ff,8b5cf6,0d1117&height=2" width="100%"/>
 
-## 📈 Technical Leadership & Quantitative Impact
+## :chart_with_upwards_trend: Technical Leadership & Quantitative Impact
 
 <div align="center">
-  <table width="100%" style="border-collapse: collapse; border: none;">
-    <tr>
-      <td width="33%" align="center" style="border: none; padding: 0;">
-        <div style="border: 2px solid #00D9FF; border-radius: 12px; padding: 18px 10px; background: #0b111e; box-shadow: 0 4px 15px rgba(0, 217, 255, 0.18); margin: 8px; min-height: 140px;">
-          <h2 style="color: #00D9FF; margin: 0 0 6px 0; font-size: 26px; font-weight: 800;">🎯 95%+</h2>
-          <p style="font-weight: 700; margin: 4px 0; color: #f3f4f6; font-size: 14px;">RAG Accuracy</p>
-          <span style="font-size: 11px; color: #9ca3af; line-height: 1.4; display: block;">Grounded Legal Document Anomaly Verification</span>
-        </div>
-      </td>
-      <td width="33%" align="center" style="border: none; padding: 0;">
-        <div style="border: 2px solid #8B5CF6; border-radius: 12px; padding: 18px 10px; background: #0f0a1c; box-shadow: 0 4px 15px rgba(139, 92, 246, 0.18); margin: 8px; min-height: 140px;">
-          <h2 style="color: #8B5CF6; margin: 0 0 6px 0; font-size: 26px; font-weight: 800;">⚡ -30%</h2>
-          <p style="font-weight: 700; margin: 4px 0; color: #f3f4f6; font-size: 14px;">Inference Latency</p>
-          <span style="font-size: 11px; color: #9ca3af; line-height: 1.4; display: block;">Scale AI LLM Fine-Tuning & Code Optimization</span>
-        </div>
-      </td>
-      <td width="33%" align="center" style="border: none; padding: 0;">
-        <div style="border: 2px solid #10B981; border-radius: 12px; padding: 18px 10px; background: #071512; box-shadow: 0 4px 15px rgba(16, 185, 129, 0.18); margin: 8px; min-height: 140px;">
-          <h2 style="color: #10B981; margin: 0 0 6px 0; font-size: 26px; font-weight: 800;">💰 40%</h2>
-          <p style="font-weight: 700; margin: 4px 0; color: #f3f4f6; font-size: 14px;">Cloud Cost Savings</p>
-          <span style="font-size: 11px; color: #9ca3af; line-height: 1.4; display: block;">Serverless & Cloud Infrastructure Re-Architecture</span>
-        </div>
-      </td>
-    </tr>
-    <tr>
-      <td width="33%" align="center" style="border: none; padding: 0;">
-        <div style="border: 2px solid #F59E0B; border-radius: 12px; padding: 18px 10px; background: #161005; box-shadow: 0 4px 15px rgba(245, 158, 11, 0.18); margin: 8px; min-height: 140px;">
-          <h2 style="color: #F59E0B; margin: 0 0 6px 0; font-size: 26px; font-weight: 800;">🛡️ 99.9%</h2>
-          <p style="font-weight: 700; margin: 4px 0; color: #f3f4f6; font-size: 14px;">QA Verification</p>
-          <span style="font-size: 11px; color: #9ca3af; line-height: 1.4; display: block;">MIL-STD-130N Compliant Barcode/OCR Precision</span>
-        </div>
-      </td>
-      <td width="33%" align="center" style="border: none; padding: 0;">
-        <div style="border: 2px solid #3B82F6; border-radius: 12px; padding: 18px 10px; background: #070e1b; box-shadow: 0 4px 15px rgba(59, 130, 246, 0.18); margin: 8px; min-height: 140px;">
-          <h2 style="color: #3B82F6; margin: 0 0 6px 0; font-size: 26px; font-weight: 800;">💼 15+</h2>
-          <p style="font-weight: 700; margin: 4px 0; color: #f3f4f6; font-size: 14px;">Enterprise Projects</p>
-          <span style="font-size: 11px; color: #9ca3af; line-height: 1.4; display: block;">Successfully Handled End-to-End Lifecycles</span>
-        </div>
-      </td>
-      <td width="33%" align="center" style="border: none; padding: 0;">
-        <div style="border: 2px solid #0D9488; border-radius: 12px; padding: 18px 10px; background: #051412; box-shadow: 0 4px 15px rgba(13, 148, 136, 0.18); margin: 8px; min-height: 140px;">
-          <h2 style="color: #0D9488; margin: 0 0 6px 0; font-size: 26px; font-weight: 800;">👥 5+</h2>
-          <p style="font-weight: 700; margin: 4px 0; color: #f3f4f6; font-size: 14px;">Engineers Led</p>
-          <span style="font-size: 11px; color: #9ca3af; line-height: 1.4; display: block;">Directed Team Delivery at Jetec Corporation</span>
-        </div>
-      </td>
-    </tr>
-  </table>
+<table>
+<tr>
+<td align="center">
+<img src="https://img.shields.io/badge/95%25+-00D9FF?style=for-the-badge&labelColor=0D1117" /><br/>
+<img src="https://img.shields.io/badge/RAG_Accuracy-0D1117?style=flat-square" /><br/>
+<sub>Grounded Legal Document Verification</sub>
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/--30%25-8B5CF6?style=for-the-badge&labelColor=0D1117" /><br/>
+<img src="https://img.shields.io/badge/Inference_Latency-0D1117?style=flat-square" /><br/>
+<sub>Scale AI LLM Fine-Tuning & Optimization</sub>
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/40%25-10B981?style=for-the-badge&labelColor=0D1117" /><br/>
+<img src="https://img.shields.io/badge/Cloud_Cost_Savings-0D1117?style=flat-square" /><br/>
+<sub>Serverless Infrastructure Re-Architecture</sub>
+</td>
+</tr>
+<tr>
+<td align="center">
+<img src="https://img.shields.io/badge/99.9%25-F59E0B?style=for-the-badge&labelColor=0D1117" /><br/>
+<img src="https://img.shields.io/badge/QA_Verification-0D1117?style=flat-square" /><br/>
+<sub>MIL-STD-130N Barcode/OCR Precision</sub>
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/15+-3B82F6?style=for-the-badge&labelColor=0D1117" /><br/>
+<img src="https://img.shields.io/badge/Enterprise_Projects-0D1117?style=flat-square" /><br/>
+<sub>End-to-End Lifecycle Delivery</sub>
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/5+-0D9488?style=for-the-badge&labelColor=0D1117" /><br/>
+<img src="https://img.shields.io/badge/Engineers_Led-0D1117?style=flat-square" /><br/>
+<sub>Team Delivery at Jetec Corporation</sub>
+</td>
+</tr>
+</table>
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0d1117,00d9ff,8b5cf6,0d1117&height=2" width="100%"/>
 
-## 🎖️ Professional Certifications & Badges
+## :trophy: GitHub Profile Trophies
 
 <div align="center">
 
-![Microsoft Fabric](https://img.shields.io/badge/Microsoft-Fabric%20Analytics%20Engineer%20Associate-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
-![Microsoft Azure AI](https://img.shields.io/badge/Microsoft-Azure%20AI%20Fundamentals-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
-
-<br/>
-
-![AWS Anomaly Detection](https://img.shields.io/badge/AWS-Anomaly%20Detection%20%26%20CV-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white)
-![AWS IoT Specialist](https://img.shields.io/badge/AWS-IoT%20Specialist%20%28Greengrass%29-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+<img src="https://github-profile-trophy.vercel.app/?username=SGajjar24&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=15" width="100%" />
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0d1117,00d9ff,8b5cf6,0d1117&height=2" width="100%"/>
 
-## 🛡️ Key Enterprise & Defense Clients Footprint
-
-Showcase of leading organizations and defense programs for which I have engineered mission-critical marking, vision, and industrial automation software systems:
+## :bar_chart: GitHub Activity & Analytics
 
 <div align="center">
 
-![Northrop Grumman](https://img.shields.io/badge/Northrop--Grumman-Defense%20Systems-1E3A8A?style=flat-square)
-![Raytheon](https://img.shields.io/badge/Raytheon--Technologies-Aerospace-D97706?style=flat-square)
-![Lockheed Martin](https://img.shields.io/badge/Lockheed--Martin-Defense-0F172A?style=flat-square)
-![Crane Army](https://img.shields.io/badge/Crane--Army-Ammunition-4B5563?style=flat-square)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=SGajjar24&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00D9FF&icon_color=8B5CF6&text_color=c9d1d9&ring_color=00D9FF" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=SGajjar24&show_icons=true&theme=default&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SGajjar24&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00D9FF&icon_color=8B5CF6&text_color=c9d1d9&ring_color=00D9FF" height="180" alt="GitHub Stats" />
+</picture>
+&nbsp;&nbsp;
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=SGajjar24&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00D9FF&text_color=c9d1d9" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=SGajjar24&layout=compact&theme=default&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SGajjar24&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00D9FF&text_color=c9d1d9" height="180" alt="Top Languages" />
+</picture>
+
+<br/><br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=SGajjar24&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=8B5CF6&currStreakLabel=00D9FF" />
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=SGajjar24&theme=default&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=SGajjar24&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=8B5CF6&currStreakLabel=00D9FF" alt="GitHub Streak" />
+</picture>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SGajjar24&theme=react-dark&hide_border=true&bg_color=0d1117&color=00D9FF&line=8B5CF6&point=00D9FF&area=true&area_color=8B5CF6" width="100%" alt="Activity Graph" />
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0d1117,00d9ff,8b5cf6,0d1117&height=2" width="100%"/>
+
+## :medal_military: Professional Certifications & Credentials
+
+<div align="center">
+
+![Microsoft Fabric](https://img.shields.io/badge/Microsoft-Fabric_Analytics_Engineer_Associate-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+![Microsoft Azure AI](https://img.shields.io/badge/Microsoft-Azure_AI_Fundamentals-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
 
 <br/>
 
-![Mercury Systems](https://img.shields.io/badge/Mercury--Systems-Defense%20IT-2563EB?style=flat-square)
+![AWS Anomaly Detection](https://img.shields.io/badge/AWS-Anomaly_Detection_%26_CV-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![AWS IoT Specialist](https://img.shields.io/badge/AWS-IoT_Specialist_(Greengrass)-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+
+<br/>
+
+![Hackathon Winner](https://img.shields.io/badge/Gemini_Hackathon-Winner-FFD700?style=for-the-badge&logo=google&logoColor=white)
+![12+ Years](https://img.shields.io/badge/Experience-12+_Years-00D9FF?style=for-the-badge&logo=clockify&logoColor=white)
+![M.S. CSU Fullerton](https://img.shields.io/badge/M.S._Computer_Eng-CSU_Fullerton-4B5563?style=for-the-badge&logo=google-scholar&logoColor=white)
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0d1117,00d9ff,8b5cf6,0d1117&height=2" width="100%"/>
+
+## :shield: Key Enterprise & Defense Client Footprint
+
+Engineered mission-critical marking, vision, and industrial automation systems for leading defense programs:
+
+<div align="center">
+
+![Northrop Grumman](https://img.shields.io/badge/Northrop_Grumman-Defense_Systems-1E3A8A?style=flat-square&logo=northropgrumman&logoColor=white)
+![Raytheon](https://img.shields.io/badge/Raytheon_Technologies-Aerospace-D97706?style=flat-square)
+![Lockheed Martin](https://img.shields.io/badge/Lockheed_Martin-Defense-0F172A?style=flat-square)
+![Crane Army](https://img.shields.io/badge/Crane_Army-Ammunition-4B5563?style=flat-square)
+
+<br/>
+
+![Mercury Systems](https://img.shields.io/badge/Mercury_Systems-Defense_IT-2563EB?style=flat-square)
 ![Honeywell](https://img.shields.io/badge/Honeywell-Automation-E11D48?style=flat-square)
-![Teledyne](https://img.shields.io/badge/Teledyne%20Technologies-Sensor%20Systems-0D9488?style=flat-square)
+![Teledyne](https://img.shields.io/badge/Teledyne_Technologies-Sensor_Systems-0D9488?style=flat-square)
 ![SAMTEC](https://img.shields.io/badge/SAMTEC-Semiconductors-0284C7?style=flat-square)
-![Amkor](https://img.shields.io/badge/Amkor%20Technology-Packaging-7C3AED?style=flat-square)
+![Amkor](https://img.shields.io/badge/Amkor_Technology-Packaging-7C3AED?style=flat-square)
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0d1117,00d9ff,8b5cf6,0d1117&height=2" width="100%"/>
 
-
-## 🏆 Elite Engineering Milestones & Technical Trophies
+## :star2: Elite Engineering Milestones
 
 <div align="center">
-<table style="border: none; border-collapse: collapse;">
+<table>
   <tr>
-    <td align="center" style="border: none; padding: 10px;">
-      <img src="https://img.shields.io/badge/🏆_AI_Architect-12+_Years_Leadership-00D9FF?style=for-the-badge&logo=cpu&logoColor=white" alt="AI Architect" /><br/>
-      <small>Enterprise Systems Design</small>
+    <td align="center">
+      <img src="https://img.shields.io/badge/AI_Architect-12+_Years_Leadership-00D9FF?style=for-the-badge&logo=cpu&logoColor=white" alt="AI Architect" /><br/>
+      <sub>Enterprise Systems Design</sub>
     </td>
-    <td align="center" style="border: none; padding: 10px;">
-      <img src="https://img.shields.io/badge/🛡️_Defense_Champion-ITAR_%26_MIL_STD-1E3A8A?style=for-the-badge&logo=shield&logoColor=white" alt="Defense Champion" /><br/>
-      <small>Lockheed & Raytheon Standards</small>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Defense_Champion-ITAR_%26_MIL--STD-1E3A8A?style=for-the-badge&logo=shield&logoColor=white" alt="Defense Champion" /><br/>
+      <sub>Lockheed & Raytheon Standards</sub>
     </td>
-    <td align="center" style="border: none; padding: 10px;">
-      <img src="https://img.shields.io/badge/🧠_RAG_Pioneer-95%25+_Document_Accuracy-0D9488?style=for-the-badge&logo=openai&logoColor=white" alt="RAG Pioneer" /><br/>
-      <small>Zero-Hallucination Engines</small>
+    <td align="center">
+      <img src="https://img.shields.io/badge/RAG_Pioneer-95%25+_Document_Accuracy-0D9488?style=for-the-badge&logo=openai&logoColor=white" alt="RAG Pioneer" /><br/>
+      <sub>Zero-Hallucination Engines</sub>
     </td>
   </tr>
   <tr>
-    <td align="center" style="border: none; padding: 10px;">
-      <img src="https://img.shields.io/badge/💎_Cloud_Optimizer-40%25_Cost_Reduction-7C3AED?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="Cloud Optimizer" /><br/>
-      <small>SaaS Cost Architecture</small>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Cloud_Optimizer-40%25_Cost_Reduction-7C3AED?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="Cloud Optimizer" /><br/>
+      <sub>SaaS Cost Architecture</sub>
     </td>
-    <td align="center" style="border: none; padding: 10px;">
-      <img src="https://img.shields.io/badge/👑_Engineering_Lead-Team_Leadership_(5%2B)-D97706?style=for-the-badge&logo=diagram-next&logoColor=white" alt="Engineering Lead" /><br/>
-      <small>15+ Flagship Lifecycles</small>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Engineering_Lead-Team_of_5+-D97706?style=for-the-badge&logo=diagram-next&logoColor=white" alt="Engineering Lead" /><br/>
+      <sub>15+ Flagship Lifecycles</sub>
     </td>
-    <td align="center" style="border: none; padding: 10px;">
-      <img src="https://img.shields.io/badge/🎓_M.S._Computer_Eng-CSU_Fullerton-4B5563?style=for-the-badge&logo=graduation-cap&logoColor=white" alt="M.S. Computer Engineering" /><br/>
-      <small>Specialized in AI/ML & Systems</small>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Hackathon_Winner-Gemini_AI-FFD700?style=for-the-badge&logo=google&logoColor=white" alt="Hackathon Winner" /><br/>
+      <sub>THIRD-EYE Project</sub>
     </td>
   </tr>
 </table>
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0d1117,00d9ff,8b5cf6,0d1117&height=2" width="100%"/>
 
-## 📊 Core Technology Analytics & Domain Expertise
+## :chart_with_upwards_trend: Core Technology Analytics & Domain Expertise
 
 <div align="center">
 <table width="90%">
@@ -209,42 +242,41 @@ Showcase of leading organizations and defense programs for which I have engineer
     <th width="20%" align="center">Rating Badge</th>
   </tr>
   <tr>
-    <td><b>🤖 GenAI & Agentic RAG Systems</b><br/><small>LangGraph, LangChain, Hybrid Retrieval, Grounded Citations</small></td>
-    <td><code>█████████████████████████████████░</code> <b>97%</b></td>
+    <td><b>:robot: GenAI & Agentic RAG Systems</b><br/><sub>LangGraph, LangChain, Hybrid Retrieval, Grounded Citations</sub></td>
+    <td><code>&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9601;</code> <b>97%</b></td>
     <td align="center"><img src="https://img.shields.io/badge/Level-Elite-00D9FF?style=flat-square" alt="Elite Level" /></td>
   </tr>
   <tr>
-    <td><b>🛡️ Military & Defense Engineering</b><br/><small>ITAR Compliance, MIL-STD-130N, AS9100D, Real-Time C++</small></td>
-    <td><code>████████████████████████████████░░</code> <b>95%</b></td>
+    <td><b>:shield: Military & Defense Engineering</b><br/><sub>ITAR Compliance, MIL-STD-130N, AS9100D, Real-Time C++</sub></td>
+    <td><code>&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9601;&#9601;</code> <b>95%</b></td>
     <td align="center"><img src="https://img.shields.io/badge/Level-Expert-1E3A8A?style=flat-square" alt="Expert Level" /></td>
   </tr>
   <tr>
-    <td><b>🔤 Bilingual OCR & NLP Pipelines</b><br/><small>Neural Gujarati-English OCR, OpenCV, AI Post-Correction</small></td>
-    <td><code>████████████████████████████████░░</code> <b>94%</b></td>
+    <td><b>:abcd: Bilingual OCR & NLP Pipelines</b><br/><sub>Neural Gujarati-English OCR, OpenCV, AI Post-Correction</sub></td>
+    <td><code>&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9601;&#9601;</code> <b>94%</b></td>
     <td align="center"><img src="https://img.shields.io/badge/Level-Expert-0D9488?style=flat-square" alt="Expert Level" /></td>
   </tr>
   <tr>
-    <td><b>💎 Cloud Architecture & Cost Optimization</b><br/><small>AWS/Azure Infrastructure, Cloud Cost Modeling, Re-architecting</small></td>
-    <td><code>██████████████████████████████░░░░</code> <b>90%</b></td>
+    <td><b>:gem: Cloud Architecture & Cost Optimization</b><br/><sub>AWS/Azure Infrastructure, Cloud Cost Modeling, Re-architecting</sub></td>
+    <td><code>&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9601;&#9601;&#9601;&#9601;</code> <b>90%</b></td>
     <td align="center"><img src="https://img.shields.io/badge/Level-Advanced-7C3AED?style=flat-square" alt="Advanced Level" /></td>
   </tr>
   <tr>
-    <td><b>👑 Product Leadership & Execution</b><br/><small>Managing Teams of 5+, Overseeing 15+ Core Enterprise Releases</small></td>
-    <td><code>███████████████████████████████░░░</code> <b>92%</b></td>
+    <td><b>:crown: Product Leadership & Execution</b><br/><sub>Managing Teams of 5+, Overseeing 15+ Core Enterprise Releases</sub></td>
+    <td><code>&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9601;&#9601;&#9601;</code> <b>92%</b></td>
     <td align="center"><img src="https://img.shields.io/badge/Level-Lead-D97706?style=flat-square" alt="Lead Level" /></td>
   </tr>
   <tr>
-    <td><b>💻 Language Proficiencies</b><br/><small>Python, TypeScript/React 19, C++, C#, SQL & Vector DBs</small></td>
-    <td><code>█████████████████████████████████░</code> <b>96%</b></td>
+    <td><b>:computer: Language Proficiencies</b><br/><sub>Python, TypeScript/React 19, C++, C#, SQL & Vector DBs</sub></td>
+    <td><code>&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9601;</code> <b>96%</b></td>
     <td align="center"><img src="https://img.shields.io/badge/Level-Elite-4B5563?style=flat-square" alt="Elite Level" /></td>
   </tr>
 </table>
 </div>
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0d1117,00d9ff,8b5cf6,0d1117&height=2" width="100%"/>
 
----
-
-## 💼 Professional Timeline & Experience
+## :briefcase: Professional Timeline & Experience
 
 | Period | Role | Focus & Key Achievements |
 |:---|:---|:---|
@@ -256,11 +288,11 @@ Showcase of leading organizations and defense programs for which I have engineer
 
 > *Full professional chronology, portfolio media, and client details are available on my [LinkedIn Profile](https://www.linkedin.com/in/gajjarswetang/).*
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0d1117,00d9ff,8b5cf6,0d1117&height=2" width="100%"/>
 
-## 🌟 Flagship AI Project Spotlight
+## :star: Flagship AI Project Spotlight
 
-### 🧠 [Agentic System for Automated Document Forensic Analysis (2024 - Present)](https://github.com/SGajjar24)
+### :brain: [Agentic System for Automated Document Forensic Analysis (2024 - Present)](https://github.com/SGajjar24)
 **Enterprise-Grade Forensic RAG Engine for Regulated Domains**
 
 A sophisticated, multi-agent RAG system designed for deep forensic analysis of complex document lineages (revenue records, land deeds, and court filings). The system provides fully traceable, non-hallucinatory reasoning to identify structural inconsistencies, timeline anomalies, and ownership lineage alterations over multi-decade spans.
@@ -268,43 +300,27 @@ A sophisticated, multi-agent RAG system designed for deep forensic analysis of c
 *   **Zero-Hallucination Grounding**: Custom retrieval flow that forces LLMs to produce verifiable, court-admissible citations.
 *   **Temporal Entity Resolution**: Recovers identity and ownership changes across decades of highly fragmented OCR records.
 *   **Hybrid Multilingual Processing**: Full OCR pipeline support for bilingual Gujarati-English texts with transformer-based post-correction.
-*   **Tech Stack**: `Gemini 2.5 Flash/Pro` • `NotebookLM` • `Python` • `Vector Databases (FAISS)` • `Langflow` • `LangChain` • `MCP/Antigravity`
+*   **Tech Stack**: `Gemini 2.5 Flash/Pro` | `NotebookLM` | `Python` | `Vector Databases (FAISS)` | `Langflow` | `LangChain` | `MCP/Antigravity`
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0d1117,00d9ff,8b5cf6,0d1117&height=2" width="100%"/>
 
-## 🛠️ Complete Technical Stack
+## :hammer_and_wrench: Complete Technical Stack
 
 <div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python,ts,react,nextjs,tailwind,vite,nodejs,fastapi,firebase,aws,azure,docker,cpp,cs,tensorflow,opencv,git,github,vscode,figma&perline=10&theme=dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=python,ts,react,nextjs,tailwind,vite,nodejs,fastapi,firebase,aws,azure,docker,cpp,cs,tensorflow,opencv,git,github,vscode,figma&perline=10&theme=light" />
+  <img src="https://skillicons.dev/icons?i=python,ts,react,nextjs,tailwind,vite,nodejs,fastapi,firebase,aws,azure,docker,cpp,cs,tensorflow,opencv,git,github,vscode,figma&perline=10&theme=dark" alt="Tech Stack" />
+</picture>
+
+<br/><br/>
 
 ### GenAI & Agentic Architectures
 ![Gemini AI](https://img.shields.io/badge/Gemini_AI-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![Langflow](https://img.shields.io/badge/Langflow-FF6B6B?style=for-the-badge)
 ![Vector DBs](https://img.shields.io/badge/Vector_DBs_(FAISS/Chroma)-00D9FF?style=for-the-badge)
-
-### Languages & Systems Engineering
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Embedded C](https://img.shields.io/badge/Embedded_C-4B5563?style=for-the-badge)
-
-### Premium Frontend & Web Development
-![React 19](https://img.shields.io/badge/React_19-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js 15](https://img.shields.io/badge/Next.js_15-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Tailwind CSS 4](https://img.shields.io/badge/Tailwind_CSS_4-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-
-### Backend, Cloud & Databases
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ### Industrial & Defense Standards
 ![MIL-STD](https://img.shields.io/badge/MIL--STD--130N-2F4F4F?style=for-the-badge)
@@ -314,14 +330,14 @@ A sophisticated, multi-agent RAG system designed for deep forensic analysis of c
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0d1117,00d9ff,8b5cf6,0d1117&height=2" width="100%"/>
 
-## 📁 Curated Project Showcases
+## :file_folder: Curated Project Showcases
 
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h3>🏛️ Generative AI & Agentic RAG</h3>
+      <h3>:classical_building: Generative AI & Agentic RAG</h3>
       
 **[VastuCraft AI Studio](https://betaversion1.vercel.app)**  
 *Fusing Ancient Wisdom with Generative Architecture*  
@@ -342,7 +358,7 @@ Comprehensive immigration assistant with CRS scorecard calculation, PNP pathway 
 ![Status](https://img.shields.io/badge/Status-Production-brightgreen?style=flat-square)
     </td>
     <td width="50%" valign="top">
-      <h3>🛠️ Core Systems, OCR & Utilities</h3>
+      <h3>:wrench: Core Systems, OCR & Utilities</h3>
       
 **[Aether AI System Tuner](https://github.com/SGajjar24/aether-ai-tuner)**  
 *Model Performance Tuning & Monitoring*  
@@ -365,7 +381,7 @@ A dual-script OCR processing engine utilizing convolutional networks and NLP-bas
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🎨 Creative & Architectural Web</h3>
+      <h3>:art: Creative & Architectural Web</h3>
       
 **[Archi-Tech Platform](https://github.com/SGajjar24)**  
 *Modern High-End Landing Page*  
@@ -380,7 +396,7 @@ Sleek, minimalist design portfolio showcasing interior architectures, high-resol
 ![Status](https://img.shields.io/badge/Status-Production-brightgreen?style=flat-square)
     </td>
     <td width="50%" valign="top">
-      <h3>🧬 Specialist Applications</h3>
+      <h3>:dna: Specialist Applications</h3>
       
 **[Patent Pilot Beta](https://github.com/SGajjar24)**  
 *AI-Assisted Patent Workflows*  
@@ -390,7 +406,7 @@ Intelligent draft generator and legal document compiler designed to facilitate i
 
 **[THIRD-EYE](https://github.com/SGajjar24/THIRD-EYE)**  
 *AI-Powered Security & Content Authenticity*  
-*Gemini Hackathon Winner* • Real-time image and video authenticity verification with custom vector-grounded matching.  
+*Gemini Hackathon Winner* :trophy: Real-time image and video authenticity verification with custom vector-grounded matching.  
 `Python` `Gemini Vision` `Streamlit` `FAISS`  
 ![Status](https://img.shields.io/badge/Status-Production-brightgreen?style=flat-square)
     </td>
@@ -398,50 +414,51 @@ Intelligent draft generator and legal document compiler designed to facilitate i
 </table>
 
 <details>
-<summary><b>📂 Additional Project Repositories</b></summary>
+<summary><b>:open_file_folder: Additional Project Repositories</b></summary>
 <br/>
 
 | Repository | Project Focus & Category | Technical Stack |
 |:---|:---|:---|
-| [Indian Tax Frontend](https://github.com/SGajjar24) | Regional Matrimonial & Personal Finance Tool | React • TypeScript |
-| [Indian Tax Calculator Backend](https://github.com/SGajjar24) | Distributed Financial Estimation API Service | Python • FastAPI |
-| [Stiggy E-commerce](https://github.com/SGajjar24/stiggy) | Premium Streetwear storefront with integrated AI Stylist | React • TypeScript • Gemini |
-| [Legal Intelligence Docs](https://github.com/SGajjar24) | Open-source R&D repository for Courtroom AI studies | Markdown • Documentation |
-| [AI Job Finder](https://github.com/SGajjar24) | Interview preparation and resume parser pipeline | Python • AI/ML |
-| [Matrimonial Biodata Creator](https://github.com/SGajjar24) | Matrimonial document form generator | HTML • JavaScript |
+| [Indian Tax Frontend](https://github.com/SGajjar24) | Regional Matrimonial & Personal Finance Tool | React | TypeScript |
+| [Indian Tax Calculator Backend](https://github.com/SGajjar24) | Distributed Financial Estimation API Service | Python | FastAPI |
+| [Stiggy E-commerce](https://github.com/SGajjar24/stiggy) | Premium Streetwear storefront with integrated AI Stylist | React | TypeScript | Gemini |
+| [Legal Intelligence Docs](https://github.com/SGajjar24) | Open-source R&D repository for Courtroom AI studies | Markdown | Documentation |
+| [AI Job Finder](https://github.com/SGajjar24) | Interview preparation and resume parser pipeline | Python | AI/ML |
+| [Matrimonial Biodata Creator](https://github.com/SGajjar24) | Matrimonial document form generator | HTML | JavaScript |
 | [Browser Excel Viewer](https://github.com/SGajjar24) | Low-level file system viewer tool | Vanilla JS |
 | [Text Extractor Tool](https://github.com/SGajjar24) | Multi-format extraction script | Python |
 | [AI File Data Organizer](https://github.com/SGajjar24) | Automated file classification utility | Python |
 
 </details>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0d1117,00d9ff,8b5cf6,0d1117&height=2" width="100%"/>
 
-## ⚖️ Licensing & Commercial Engagement Terms
+## :balance_scale: Licensing & Commercial Engagement Terms
 
 The software solutions, design architectures, and research libraries hosted within my public repositories are licensed under the following structural framework:
 
 *   **Educational & Personal Usage**: Openly available under the permissive **MIT License** for academic evaluation, personal research, open-source contribution, and independent learning.
 *   **Commercial & Enterprise Integration**: Enterprise implementation, proprietary deployment, or commercial integration of these RAG pipelines, barcode compliance architectures, or Vastu Shastra AI engines **requires a formal commercial licensing agreement**.
 *   **Consulting & Professional Services**: To discuss consulting opportunities, architectural advisory, or bespoke systems integration, please contact me directly:
-    *   ✉️ **Email**: [gajjarswetang@gmail.com](mailto:gajjarswetang@gmail.com)
-    *   🤝 **LinkedIn**: [Swetang Gajjar](https://www.linkedin.com/in/gajjarswetang/)
+    *   :email: **Email**: [gajjarswetang@gmail.com](mailto:gajjarswetang@gmail.com)
+    *   :handshake: **LinkedIn**: [Swetang Gajjar](https://www.linkedin.com/in/gajjarswetang/)
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0d1117,00d9ff,8b5cf6,0d1117&height=2" width="100%"/>
 
 <div align="center">
 
-### 🤝 Let's Connect & Collaborate
+### :handshake: Let's Connect & Collaborate
 
-Whether you're looking to integrate **military-grade industrial barcode automation**, design a **zero-hallucination agentic RAG solution**, or craft a **premium React 19 web experience**—let's build something world-class together.
+Whether you're looking to integrate **military-grade industrial barcode automation**, design a **zero-hallucination agentic RAG solution**, or craft a **premium React 19 web experience** — let's build something world-class together.
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-gajjarswetang-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gajjarswetang/)
 [![Email Badge](https://img.shields.io/badge/Email-gajjarswetang%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gajjarswetang@gmail.com)
 [![GitHub Badge](https://img.shields.io/badge/GitHub-SGajjar24-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SGajjar24)
+[![Portfolio Badge](https://img.shields.io/badge/Portfolio-swetang--portfolio-00D9FF?style=for-the-badge&logo=vercel&logoColor=white)](https://swetang-portfolio.vercel.app)
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19,24,30&height=100&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0d1117,00d9ff,8b5cf6,0d1117&height=120&section=footer" width="100%" />
 
 *"Bridging military-grade systems reliability with advanced Artificial Intelligence — one commit at a time."*
 
