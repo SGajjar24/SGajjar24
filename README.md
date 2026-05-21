@@ -1,16 +1,16 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19,24,30&height=200&section=header&text=Swetang%20Gajjar&fontSize=42&fontAlignY=35&desc=Full-Stack%20Developer%20•%20AI/ML%20Engineer%20•%20Architecture%20%26%20Design%20Tech&descAlignY=55&descSize=16&fontColor=FFFFFF&animation=twinkling" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19,24,30&height=200&section=header&text=Swetang%20Gajjar&fontSize=42&fontAlignY=35&desc=Full-Stack%20Developer%20%E2%80%A2%20AI/ML%20Engineer%20%E2%80%A2%20Defense%20Systems%20%E2%80%A2%20Architecture%20Tech&descAlignY=55&descSize=16&fontColor=FFFFFF&animation=twinkling" width="100%" />
 
 <img src="assets/hero-portrait.jpg" alt="Swetang Gajjar" width="180" style="border-radius: 50%;" />
 
 <br/>
 
-*Building intelligent systems that bridge traditional expertise with modern AI*
+*Building intelligent systems that bridge military-grade reliability with modern AI*
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Live_Site-0A0A0A?style=for-the-badge&logoColor=white)](https://swetang-portfolio.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Live_Site-0A0A0A?style=for-the-badge&logo=googlechrome&logoColor=white)](https://swetang-portfolio.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gajjarswetang/)
 [![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gajjarswetang@gmail.com)
 
@@ -27,11 +27,11 @@
 
 ```typescript
 const swetang = {
-  role: "Full-Stack Developer & AI/ML Engineer",
+  role: "Senior Software Engineer & AI/ML Engineer",
   expertise: [
-    "Architecture & Design Tech",
-    "AI-Powered Platforms",
-    "Vastu Shastra + Construction AI",
+    "Defense Systems & Mission-Critical Software",
+    "AI-Powered Platforms & RAG Architectures",
+    "Architecture & Vastu Shastra + Construction AI",
     "Legal-Tech & Forensic Intelligence"
   ],
   education: "M.S. Computer Engineering — California State University, Fullerton",
@@ -49,6 +49,43 @@ const swetang = {
   funFact: "I build systems where ancient Vastu wisdom meets modern AI 🏛️✨"
 };
 ```
+
+---
+
+## 💼 Professional Experience
+
+<table>
+<tr>
+<td>
+
+**⚙️ Senior Software Engineer — Jetec Corporation**
+<br/>Led defense automation and mission-critical software projects for Lockheed Martin and Raytheon programs. Engineered systems meeting MIL-STD-130N, ITAR, and AS9100D compliance standards.
+
+</td>
+<td>
+
+**🏛️ AI & Architecture Tech Consultant**
+<br/>Building AI-powered platforms for architecture firms — Vastu Shastra analysis, smart building monitoring, and construction intelligence systems using Gemini AI.
+
+</td>
+</tr>
+<tr>
+<td>
+
+**⚖️ Legal-Tech AI Engineer**
+<br/>Designing hallucination-resistant RAG systems for litigation support. Building court-admissible AI with grounded citation engines and bilingual legal NLP.
+
+</td>
+<td>
+
+**🎓 M.S. Computer Engineering**
+<br/>California State University, Fullerton — Specialized in AI/ML, distributed systems, and high-performance computing.
+
+</td>
+</tr>
+</table>
+
+> 📄 *Full career details on [LinkedIn →](https://www.linkedin.com/in/gajjarswetang/)*
 
 ---
 
@@ -75,7 +112,11 @@ const swetang = {
 ![Gemini AI](https://img.shields.io/badge/Gemini_AI-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge&logo=meta&logoColor=white)
+
+### Defense & Compliance
+![MIL-STD](https://img.shields.io/badge/MIL--STD--130N-2F4F4F?style=for-the-badge)
+![ITAR](https://img.shields.io/badge/ITAR_Compliant-2F4F4F?style=for-the-badge)
+![AS9100D](https://img.shields.io/badge/AS9100D-2F4F4F?style=for-the-badge)
 
 ### DevOps & Tools
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
@@ -224,28 +265,24 @@ AI-assisted patent workflow — from prior art search to patent draft generation
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=SGajjar24&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9&ring_color=00D9FF" alt="GitHub Stats" height="180" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SGajjar24&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9" alt="Top Languages" height="180" />
+<a href="https://github.com/SGajjar24">
+  <img src="https://github-readme-stats.vercel.app/api?username=SGajjar24&show_icons=true&count_private=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9&ring_color=00D9FF" alt="GitHub Stats" height="180" />
+</a>
+<a href="https://github.com/SGajjar24">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SGajjar24&layout=compact&count_private=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9" alt="Top Languages" height="180" />
+</a>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SGajjar24&theme=github-dark-blue&hide_border=true&background=0D1117&ring=00D9FF&fire=FF6B35&currStreakLabel=00D9FF" alt="GitHub Streak" height="180" />
+<a href="https://github.com/SGajjar24">
+  <img src="https://streak-stats.demolab.com?user=SGajjar24&theme=github-dark-blue&hide_border=true&background=0D1117&ring=00D9FF&fire=FF6B35&currStreakLabel=00D9FF" alt="GitHub Streak" height="180" />
+</a>
 
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=SGajjar24&theme=onestar&no-frame=true&no-bg=true&column=7&margin-w=10)
-
-</div>
-
----
-
-## 💼 What I'm Building
+## 🎯 What I'm Building
 
 | Area | Focus |
 |:---|:---|
@@ -255,6 +292,7 @@ AI-assisted patent workflow — from prior art search to patent draft generation
 | 🔤 **Gujarati NLP/OCR** | Deep-learning OCR for Gujarati script + bilingual text processing |
 | 🎨 **Premium Web Platforms** | Glassmorphism, 3D, micro-animations — dark-theme-first design systems |
 | 🛠️ **Developer Tools** | API testers, folder optimizers, AI tuners, patent tools |
+| 🛡️ **Defense Tech** | Mission-critical systems with MIL-STD, ITAR, AS9100D compliance |
 
 ---
 
@@ -264,7 +302,7 @@ AI-assisted patent workflow — from prior art search to patent draft generation
 
 I'm always open to interesting conversations and collaboration opportunities.
 
-Whether it's **AI/ML**, **architecture tech**, **legal-tech**, **open-source**, or just a good tech discussion — reach out!
+Whether it's **AI/ML**, **defense systems**, **architecture tech**, **legal-tech**, or just a good tech discussion — reach out!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-gajjarswetang-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gajjarswetang/)
 [![Email](https://img.shields.io/badge/Email-gajjarswetang@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gajjarswetang@gmail.com)
@@ -274,6 +312,6 @@ Whether it's **AI/ML**, **architecture tech**, **legal-tech**, **open-source**, 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19,24,30&height=100&section=footer" width="100%" />
 
-*"Building systems where tradition meets technology — one commit at a time."*
+*"Bridging military-grade system reliability with advanced AI — one commit at a time."*
 
 </div>
