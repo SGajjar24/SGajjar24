@@ -178,7 +178,7 @@ A sophisticated, multi-agent RAG system designed for deep forensic analysis of c
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00D9FF,100:8B5CF6&height=2&v=1.2" width="100%"/>
 
-## :hammer_and_wrench: Complete Technical Stack
+## :hammer_and_wrench: Complete Technical Stack & Systems Matrix
 
 <div align="center">
 
@@ -188,21 +188,77 @@ A sophisticated, multi-agent RAG system designed for deep forensic analysis of c
   <img src="https://skillicons.dev/icons?i=python,ts,react,nextjs,tailwind,vite,nodejs,fastapi,firebase,aws,azure,docker,cpp,cs,tensorflow,opencv,git,github,vscode,figma&perline=10&theme=dark&v=1.2" alt="Tech Stack" />
 </picture>
 
-<br/><br/>
-
-### GenAI & Agentic Architectures
-![Gemini AI](https://img.shields.io/badge/Gemini_AI-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![Langflow](https://img.shields.io/badge/Langflow-FF6B6B?style=for-the-badge)
-![Vector DBs](https://img.shields.io/badge/Vector_DBs_(FAISS/Chroma)-00D9FF?style=for-the-badge)
-
-### Industrial & Defense Standards
-![MIL-STD](https://img.shields.io/badge/MIL--STD--130N-2F4F4F?style=for-the-badge)
-![ITAR](https://img.shields.io/badge/ITAR_Compliant-2F4F4F?style=for-the-badge)
-![AS9100D](https://img.shields.io/badge/AS9100D-2F4F4F?style=for-the-badge)
-![ISO 9001](https://img.shields.io/badge/ISO_9001-2F4F4F?style=for-the-badge)
-
 </div>
+
+<br/>
+
+An exhaustive, domain-by-domain mapping of my software development engineering capabilities, standard protocols, and system architecture frameworks:
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🤖 Generative AI & Agentic Core</h3>
+      
+*   **Orchestration & Frameworks**: `LangChain` | `LangGraph` | `Langflow` | `LlamaIndex`
+*   **Large Language Models**: `Gemini 2.5 Pro & Flash` | `NotebookLM` | `GPT-4o` | `Claude 3.5 Sonnet`
+*   **RAG & Vector Engineering**: `Hybrid Search` | `FAISS` | `ChromaDB` | `Pinecone` | `Parent-Document Retrieval`
+*   **Retrieval Optimization**: `Zero-Hallucination Guardrails` | `Verifiable Court Citation Parsing` | `Context Re-ranking`
+*   **AI Fine-Tuning**: `LoRA / QLoRA` | `LLM Quantization` | `Prompt Engineering`  
+![Proficiency](https://img.shields.io/badge/Expertise-Elite-00D9FF?style=flat-square)
+    </td>
+    <td width="50%" valign="top">
+      <h3>👁️ Machine Vision & OCR Engineering</h3>
+      
+*   **Script Processing**: `Gujarati-English Neural OCR` | `Bilingual Script Recognition` | `Ligature Analysis`
+*   **Vision & Image Processing**: `OpenCV` | `Tesseract OCR` | `EasyOCR` | `PIL (Pillow)`
+*   **Deep Learning Models**: `TensorFlow` | `Keras` | `Convolutional Neural Networks (CNNs)` | `PyTorch`
+*   **Digital Signal Processing**: `Spatial Filtering` | `Dynamic Thresholding` | `Perspective Warp Rectification`
+*   **Data Correction**: `LSTM-based Spelling Correction` | `Transformers NLP Post-Correction`  
+![Proficiency](https://img.shields.io/badge/Expertise-Expert-0D9488?style=flat-square)
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🛡️ Defense & Systems Engineering</h3>
+      
+*   **Industrial Standards**: `MIL-STD-130N Standard` | `AS9100D Aerospace QC` | `ISO 9001`
+*   **Security Protocols**: `ITAR Compliance` | `Secured Offline Data Processing` | `Regulatory Defense Archiving`
+*   **Industrial Automation**: `4-Axis Motion Controllers` | `Machine Vision Alignment` | `PLC Integration`
+*   **Serialization Engines**: `High-Throughput UID Generation` | `Industrial Barcode Validation` | `Database Handshaking`
+*   **Systems Programming**: `Real-Time C++ Systems` | `C# .NET Core Industrial Services` | `Multi-Threaded Control`  
+![Proficiency](https://img.shields.io/badge/Expertise-Expert-1E3A8A?style=flat-square)
+    </td>
+    <td width="50%" valign="top">
+      <h3>💻 Core Development & Languages</h3>
+      
+*   **Primary Languages**: `Python` | `TypeScript` | `JavaScript` | `C++` | `C#` | `SQL`
+*   **Scripting & Shells**: `PowerShell Scripting` | `Bash` | `Command-line Automation`
+*   **Data Formats & Serialization**: `JSON-LD Structured Schemas` | `YAML` | `Protocol Buffers (protobuf)` | `XML`
+*   **Database Management**: `PostgreSQL` | `SQLite` | `Firebase Firestore` | `MongoDB` | `Prisma ORM`  
+![Proficiency](https://img.shields.io/badge/Expertise-Elite-4B5563?style=flat-square)
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🎨 Frontend Architectures & Design</h3>
+      
+*   **Frameworks & Core**: `React 19` | `Next.js 15 (App Router)` | `Vite` | `HTML5 Canvas API`
+*   **Styling & UI Systems**: `Tailwind CSS v4 & v3` | `Framer Motion` | `Glassmorphism Design Systems` | `Vanilla CSS`
+*   **State & Routing**: `React Context API` | `Zustand` | `Next.js Server Actions`
+*   **SEO & Optimizations**: `JSON-LD Schema Optimization` | `Semantic HTML5 structures` | `Responsive Viewports`  
+![Proficiency](https://img.shields.io/badge/Expertise-Advanced-7C3AED?style=flat-square)
+    </td>
+    <td width="50%" valign="top">
+      <h3>☁️ Clouds, DevOps & Deployments</h3>
+      
+*   **Cloud Architecture**: `AWS Greengrass` | `AWS IoT Core` | `Azure AI Fundamentals` | `Azure Cognitive Services`
+*   **Containerization**: `Docker` | `Microservices Architectures`
+*   **CI/CD & Automation**: `GitHub Actions (YAML workflows)` | `PyPI Package Publishing` | `Vite Bundlers`
+*   **Hosting Platforms**: `Vercel (Primary Serverless)` | `Netlify` | `Firebase Hosting` | `AWS EC2/S3`  
+![Proficiency](https://img.shields.io/badge/Expertise-Advanced-D97706?style=flat-square)
+    </td>
+  </tr>
+</table>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00D9FF,100:8B5CF6&height=2&v=1.2" width="100%"/>
 
