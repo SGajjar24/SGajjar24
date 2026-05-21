@@ -26,12 +26,12 @@
 
 ---
 
-## 🧠 About Me
+## ðŸ§  About Me
 
 ```typescript
 class SwetangGajjar implements SeniorEngineer, AIArchitect {
   readonly name = "Swetang Gajjar";
-  readonly education = "M.S. Computer Engineering — California State University, Fullerton";
+  readonly education = "M.S. Computer Engineering â€” California State University, Fullerton";
   readonly location = "California, USA";
   readonly languages = ["English", "Gujarati", "Hindi"];
 
@@ -43,56 +43,56 @@ class SwetangGajjar implements SeniorEngineer, AIArchitect {
   };
 
   public currentFocus = [
-    "Pioneering premium web platforms with React 19 + TypeScript + Tailwind v4 🚀",
-    "Building zero-hallucination citation engines for court-admissible Legal AI ⚖️",
-    "Translating ancient Vastu Shastra architectural principles into modern generative AI platforms 🏛️",
-    "Optimizing high-throughput Gujarati-English bilingual OCR pipelines with neural post-correction 🔤"
+    "Pioneering premium web platforms with React 19 + TypeScript + Tailwind v4 ðŸš€",
+    "Building zero-hallucination citation engines for court-admissible Legal AI âš–ï¸",
+    "Translating ancient Vastu Shastra architectural principles into modern generative AI platforms ðŸ›ï¸",
+    "Optimizing high-throughput Gujarati-English bilingual OCR pipelines with neural post-correction ðŸ”¤"
   ];
 
-  public funFact = "Bridging the timeless wisdom of Vastu Shastra with futuristic agentic AI networks! 🏛️✨";
+  public funFact = "Bridging the timeless wisdom of Vastu Shastra with futuristic agentic AI networks! ðŸ›ï¸âœ¨";
 }
 ```
 
 ---
 
-## 💼 Professional Experience
+## ðŸ’¼ Professional Experience
 
 <table>
 <tr>
 <td>
 
-**⚙️ Senior Software Engineer — Jetec Corporation**
+**âš™ï¸ Senior Software Engineer â€” Jetec Corporation**
 <br/>Led defense automation and mission-critical software projects for Lockheed Martin and Raytheon programs. Engineered systems meeting MIL-STD-130N, ITAR, and AS9100D compliance standards.
 
 </td>
 <td>
 
-**🏛️ AI & Architecture Tech Consultant**
-<br/>Building AI-powered platforms for architecture firms — Vastu Shastra analysis, smart building monitoring, and construction intelligence systems using Gemini AI.
+**ðŸ›ï¸ AI & Architecture Tech Consultant**
+<br/>Building AI-powered platforms for architecture firms â€” Vastu Shastra analysis, smart building monitoring, and construction intelligence systems using Gemini AI.
 
 </td>
 </tr>
 <tr>
 <td>
 
-**⚖️ Legal-Tech AI Engineer**
+**âš–ï¸ Legal-Tech AI Engineer**
 <br/>Designing hallucination-resistant RAG systems for litigation support. Building court-admissible AI with grounded citation engines and bilingual legal NLP.
 
 </td>
 <td>
 
-**🎓 M.S. Computer Engineering**
-<br/>California State University, Fullerton — Specialized in AI/ML, distributed systems, and high-performance computing.
+**ðŸŽ“ M.S. Computer Engineering**
+<br/>California State University, Fullerton â€” Specialized in AI/ML, distributed systems, and high-performance computing.
 
 </td>
 </tr>
 </table>
 
-> 📄 *Full career details on [LinkedIn →](https://www.linkedin.com/in/gajjarswetang/)*
+> ðŸ“„ *Full career details on [LinkedIn â†’](https://www.linkedin.com/in/gajjarswetang/)*
 
 ---
 
-## ⚡ Tech Stack
+## âš¡ Tech Stack
 
 <div align="center">
 
@@ -132,16 +132,16 @@ class SwetangGajjar implements SeniorEngineer, AIArchitect {
 
 ---
 
-## 🚀 Featured Projects
+## ðŸš€ Featured Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 👁️ [THIRD-EYE](https://github.com/SGajjar24/THIRD-EYE)
+### ðŸ‘ï¸ [THIRD-EYE](https://github.com/SGajjar24/THIRD-EYE)
 **AI-Powered Security & Content Authenticity Platform**
 
-*Gemini Hackathon Winner* — Real-time deepfake detection and content authenticity verification using Gemini Vision Pro.
+*Gemini Hackathon Winner* â€” Real-time deepfake detection and content authenticity verification using Gemini Vision Pro.
 
 `Python` `Gemini Vision` `Streamlit` `FAISS`
 
@@ -151,7 +151,7 @@ class SwetangGajjar implements SeniorEngineer, AIArchitect {
 </td>
 <td width="50%" valign="top">
 
-### ⚖️ [Legal Document RAG Starter](https://github.com/SGajjar24/legal-document-rag-starter)
+### âš–ï¸ [Legal Document RAG Starter](https://github.com/SGajjar24/legal-document-rag-starter)
 **Production-Ready RAG for Legal Analysis**
 
 Hallucination-resistant RAG system for legal document analysis with 95%+ recall on contradiction detection. Court-admissible AI outputs.
@@ -165,7 +165,7 @@ Hallucination-resistant RAG system for legal document analysis with 95%+ recall 
 <tr>
 <td width="50%" valign="top">
 
-### 🔬 [Courtroom AI Citation Engine](https://github.com/SGajjar24/courtroom-ai-citation-engine)
+### ðŸ”¬ [Courtroom AI Citation Engine](https://github.com/SGajjar24/courtroom-ai-citation-engine)
 **Forcing LLMs to Cite Sources Like a Paralegal**
 
 Zero-hallucination citation engine that forces LLMs to produce verifiable, court-admissible citations with legal document grounding.
@@ -177,7 +177,7 @@ Zero-hallucination citation engine that forces LLMs to produce verifiable, court
 </td>
 <td width="50%" valign="top">
 
-### 🍁 [CanadaPath AI](https://github.com/SGajjar24/canadapath-ai)
+### ðŸ [CanadaPath AI](https://github.com/SGajjar24/canadapath-ai)
 **AI-Powered Canadian Immigration Assistant**
 
 Comprehensive immigration guidance with CRS calculator, Express Entry/PNP pathway analysis, and Gemini-powered chatbot.
@@ -191,10 +191,10 @@ Comprehensive immigration guidance with CRS calculator, Express Entry/PNP pathwa
 <tr>
 <td width="50%" valign="top">
 
-### 📁 [Folder Intelligence](https://github.com/SGajjar24/folder-intelligence)
+### ðŸ“ [Folder Intelligence](https://github.com/SGajjar24/folder-intelligence)
 **The Complete File System Optimization Pipeline**
 
-Enterprise-grade file organization — audit, declutter, rename, deduplicate, document. Smart CLI that reads PDFs, Word docs, images via OCR. 100% offline.
+Enterprise-grade file organization â€” audit, declutter, rename, deduplicate, document. Smart CLI that reads PDFs, Word docs, images via OCR. 100% offline.
 
 `Python` `CLI` `OCR` `File Analysis`
 
@@ -203,7 +203,7 @@ Enterprise-grade file organization — audit, declutter, rename, deduplicate, do
 </td>
 <td width="50%" valign="top">
 
-### 🔤 [Multilingual OCR Pipeline](https://github.com/SGajjar24/multilingual-ocr-pipeline)
+### ðŸ”¤ [Multilingual OCR Pipeline](https://github.com/SGajjar24/multilingual-ocr-pipeline)
 **Gujarati + English OCR with AI Post-Correction**
 
 Advanced bilingual OCR pipeline for Gujarati script recognition with deep-learning post-correction and NLP enhancement.
@@ -217,7 +217,7 @@ Advanced bilingual OCR pipeline for Gujarati script recognition with deep-learni
 <tr>
 <td width="50%" valign="top">
 
-### 🏗️ [Archi-Tech Platform](https://github.com/SGajjar24/archi-tech-platform)
+### ðŸ—ï¸ [Archi-Tech Platform](https://github.com/SGajjar24/archi-tech-platform)
 **Modern Architecture Landing Page**
 
 High-performance, visually stunning landing page for a modern architecture firm with premium design and animations.
@@ -229,10 +229,10 @@ High-performance, visually stunning landing page for a modern architecture firm 
 </td>
 <td width="50%" valign="top">
 
-### 🛡️ [Patent Pilot Beta](https://github.com/SGajjar24/Patent-Pilot--Beta)
+### ðŸ›¡ï¸ [Patent Pilot Beta](https://github.com/SGajjar24/Patent-Pilot--Beta)
 **Patent Filing, Creation & Search Tool**
 
-AI-assisted patent workflow — from prior art search to patent draft generation with intelligent document analysis.
+AI-assisted patent workflow â€” from prior art search to patent draft generation with intelligent document analysis.
 
 `Python` `AI/ML` `Patent Analysis`
 
@@ -243,19 +243,19 @@ AI-assisted patent workflow — from prior art search to patent draft generation
 </table>
 
 <details>
-<summary><b>📦 More Projects</b></summary>
+<summary><b>ðŸ“¦ More Projects</b></summary>
 
 <br/>
 
 | Project | Description | Stack |
 |:---|:---|:---|
-| [Indian Tax Frontend](https://github.com/SGajjar24/indian-tax-frontend) | Indian tax calculator web interface | React · TypeScript |
-| [Indian Tax Calculator Backend](https://github.com/SGajjar24/indian-tax-calculator-backend) | Tax computation API service | Python · FastAPI |
-| [Stiggy E-commerce](https://github.com/SGajjar24/stiggy) | Premium streetwear e-commerce demo with AI Stylist | React · TypeScript · Gemini AI |
-| [Sthapatya Design Studio](https://github.com/SGajjar24/Sthapatya) | Architecture & interior design firm website | React · TypeScript |
-| [Legal Intelligence Docs](https://github.com/SGajjar24/legal-intelligence-docs) | Public docs & whitepapers for Legal Intelligence | Markdown · Research |
-| [AI Job Finder](https://github.com/SGajjar24/AI-JOB-Finder-with-Preparation) | AI-powered job search with interview prep | Python · AI/ML |
-| [Biodata Creator](https://github.com/SGajjar24/BIODATA-CREATOR) | Indian matrimonial biodata generator | HTML · JavaScript |
+| [Indian Tax Frontend](https://github.com/SGajjar24/indian-tax-frontend) | Indian tax calculator web interface | React Â· TypeScript |
+| [Indian Tax Calculator Backend](https://github.com/SGajjar24/indian-tax-calculator-backend) | Tax computation API service | Python Â· FastAPI |
+| [Stiggy E-commerce](https://github.com/SGajjar24/stiggy) | Premium streetwear e-commerce demo with AI Stylist | React Â· TypeScript Â· Gemini AI |
+| [Sthapatya Design Studio](https://github.com/SGajjar24/Sthapatya) | Architecture & interior design firm website | React Â· TypeScript |
+| [Legal Intelligence Docs](https://github.com/SGajjar24/legal-intelligence-docs) | Public docs & whitepapers for Legal Intelligence | Markdown Â· Research |
+| [AI Job Finder](https://github.com/SGajjar24/AI-JOB-Finder-with-Preparation) | AI-powered job search with interview prep | Python Â· AI/ML |
+| [Biodata Creator](https://github.com/SGajjar24/BIODATA-CREATOR) | Indian matrimonial biodata generator | HTML Â· JavaScript |
 | [Browser Excel Viewer](https://github.com/SGajjar24/BROWSER-EXCEL-FILE-VIEWER) | In-browser Excel file viewer | JavaScript |
 | [Text Extractor Tool](https://github.com/SGajjar24/Text-Extractor-Tool) | Universal text extraction utility | Python |
 | [AI File Data Organizer](https://github.com/SGajjar24/AI-File-DATA-organizer) | AI-powered file data organization | Python |
@@ -264,17 +264,17 @@ AI-assisted patent workflow — from prior art search to patent draft generation
 
 ---
 
-## 📊 Developer Metrics & Stats
+## ðŸ“Š Developer Metrics & Stats
 
 <div align="center">
 
-### 🏆 Open Source Trophies
+### ðŸ† Open Source Trophies
 <img src="https://github-profile-trophy.vercel.app/?username=SGajjar24&theme=onedark&column=7&margin-w=15&margin-h=15&no-bg=true" alt="GitHub Trophies" />
 
 <br/>
 <br/>
 
-### 📊 GitHub Activity & Language Analytics
+### ðŸ“Š GitHub Activity & Language Analytics
 
 <a href="https://github.com/SGajjar24">
   <img src="https://github-readme-stats.vercel.app/api?username=SGajjar24&show_icons=true&count_private=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9&ring_color=00D9FF" alt="GitHub Stats" height="180" />
@@ -293,38 +293,38 @@ AI-assisted patent workflow — from prior art search to patent draft generation
 
 ---
 
-## 🎯 Active Architectural Focus Areas
+## ðŸŽ¯ Active Architectural Focus Areas
 
 | Focus Area | Engineering Objectives |
 |:---|:---|
-| 🏛️ **Architecture AI** | Vastu Shastra meets modern construction tech — QuantTect, Architech, Sthapatya |
-| ⚖️ **Legal-Tech AI** | Zero-hallucination citation engines, RAG for legal docs, courtroom-grade AI |
-| 🤖 **Gemini AI Integration** | Building production AI features with Google's Gemini 2.5 models |
-| 🔤 **Gujarati NLP/OCR** | Deep-learning OCR for Gujarati script + bilingual text processing |
-| 🎨 **Premium Web Platforms** | Glassmorphism, 3D, micro-animations — dark-theme-first design systems |
-| 🛠️ **Developer Tools** | API testers, folder optimizers, AI tuners, patent tools |
-| 🛡️ **Defense Tech** | Mission-critical systems with MIL-STD, ITAR, AS9100D compliance |
+| ðŸ›ï¸ **Architecture AI** | Vastu Shastra meets modern construction tech â€” QuantTect, Architech, Sthapatya |
+| âš–ï¸ **Legal-Tech AI** | Zero-hallucination citation engines, RAG for legal docs, courtroom-grade AI |
+| ðŸ¤– **Gemini AI Integration** | Building production AI features with Google's Gemini 2.5 models |
+| ðŸ”¤ **Gujarati NLP/OCR** | Deep-learning OCR for Gujarati script + bilingual text processing |
+| ðŸŽ¨ **Premium Web Platforms** | Glassmorphism, 3D, micro-animations â€” dark-theme-first design systems |
+| ðŸ› ï¸ **Developer Tools** | API testers, folder optimizers, AI tuners, patent tools |
+| ðŸ›¡ï¸ **Defense Tech** | Mission-critical systems with MIL-STD, ITAR, AS9100D compliance |
 
 ---
 
-## ⚖️ Licensing & Commercial Terms
+## âš–ï¸ Licensing & Commercial Terms
 
 The intellectual property, code showcases, and projects hosted across my repositories are subject to the following licensing structure:
 
 * **Academic & Personal Usage**: Openly available under permissive open-source licenses (such as MIT) for personal study, technical evaluation, non-commercial experimentation, and contributions.
 * **Commercial & Professional Usage**: Requires explicit written commercial authorization. If you are interested in deploying any of these systems, integrating my AI/ML pipelines, or engaging in professional consulting opportunities, please establish direct contact via:
-  * 📧 **Email**: [gajjarswetang@gmail.com](mailto:gajjarswetang@gmail.com)
-  * 💼 **LinkedIn**: [Swetang Gajjar](https://www.linkedin.com/in/gajjarswetang/)
+  * ðŸ“§ **Email**: [gajjarswetang@gmail.com](mailto:gajjarswetang@gmail.com)
+  * ðŸ’¼ **LinkedIn**: [Swetang Gajjar](https://www.linkedin.com/in/gajjarswetang/)
 
 ---
 
-## 📫 Let's Connect
+## ðŸ“« Let's Connect
 
 <div align="center">
 
 I'm always open to interesting conversations and collaboration opportunities.
 
-Whether it's **AI/ML**, **defense systems**, **architecture tech**, **legal-tech**, or just a good tech discussion — reach out!
+Whether it's **AI/ML**, **defense systems**, **architecture tech**, **legal-tech**, or just a good tech discussion â€” reach out!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-gajjarswetang-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gajjarswetang/)
 [![Email](https://img.shields.io/badge/Email-gajjarswetang@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gajjarswetang@gmail.com)
@@ -334,6 +334,8 @@ Whether it's **AI/ML**, **defense systems**, **architecture tech**, **legal-tech
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19,24,30&height=100&section=footer" width="100%" />
 
-*"Bridging military-grade system reliability with advanced AI — one commit at a time."*
+*"Bridging military-grade system reliability with advanced AI â€” one commit at a time."*
 
 </div>
+
+<!-- force-sync: 2026-05-21 -->
