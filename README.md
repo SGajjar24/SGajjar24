@@ -1,12 +1,15 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19,24,30&height=200&section=header&text=Swetang%20Gajjar&fontSize=42&fontAlignY=35&desc=Full-Stack%20Developer%20%E2%80%A2%20AI/ML%20Engineer%20%E2%80%A2%20Defense%20Systems%20%E2%80%A2%20Architecture%20Tech&descAlignY=55&descSize=16&fontColor=FFFFFF&animation=twinkling" width="100%" />
-
-<img src="assets/hero-portrait.jpg" alt="Swetang Gajjar" width="180" style="border-radius: 50%;" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&customColorList=0d1117,00d9ff,0077b5,0d1117&height=200&section=header&text=Swetang%20Gajjar&fontSize=42&fontAlignY=35&desc=Senior%20Software%20Engineer%20%E2%80%A2%20AI/ML%20Engineer%20%E2%80%A2%20Defense%20Systems%20%E2%80%A2%20Architecture%20Tech&descAlignY=55&descSize=16&fontColor=FFFFFF&animation=twinkling" width="100%" />
 
 <br/>
 
-*Building intelligent systems that bridge military-grade reliability with modern AI*
+<img src="assets/hero-portrait.jpg" alt="Swetang Gajjar" width="180" style="border-radius: 50%; border: 4px solid #00D9FF; box-shadow: 0 0 20px rgba(0, 217, 255, 0.4);" />
+
+<br/>
+<br/>
+
+*Architecting next-generation intelligent platforms where military-grade reliability meets advanced AI.*
 
 <br/>
 
@@ -26,28 +29,28 @@
 ## 🧠 About Me
 
 ```typescript
-const swetang = {
-  role: "Senior Software Engineer & AI/ML Engineer",
-  expertise: [
-    "Defense Systems & Mission-Critical Software",
-    "AI-Powered Platforms & RAG Architectures",
-    "Architecture & Vastu Shastra + Construction AI",
-    "Legal-Tech & Forensic Intelligence"
-  ],
-  education: "M.S. Computer Engineering — California State University, Fullerton",
-  location: "California, USA",
-  languages: ["English", "Gujarati", "Hindi"],
+class SwetangGajjar implements SeniorEngineer, AIArchitect {
+  readonly name = "Swetang Gajjar";
+  readonly education = "M.S. Computer Engineering — California State University, Fullerton";
+  readonly location = "California, USA";
+  readonly languages = ["English", "Gujarati", "Hindi"];
 
-  currentFocus: [
-    "Building premium web platforms with React 19 + TypeScript",
-    "Integrating Gemini AI into real-world applications",
-    "Gujarati-English bilingual OCR & NLP research",
-    "Architecture & Vastu Shastra AI systems",
-    "Zero-hallucination citation engines for legal AI"
-  ],
+  public skills = {
+    defenseSystems: ["MIL-STD-130N", "ITAR Compliance", "AS9100D", "Mission-Critical Software"],
+    artificialIntelligence: ["Gemini 2.5", "RAG Systems", "Bilingual OCR/NLP", "LangChain", "Vector DBs"],
+    webPlatforms: ["React 19", "Next.js 15", "TypeScript", "Tailwind CSS v4", "Framer Motion", "Three.js"],
+    backendEng: ["Node.js", "FastAPI", "Python", "C++", "Distributed Systems"]
+  };
 
-  funFact: "I build systems where ancient Vastu wisdom meets modern AI 🏛️✨"
-};
+  public currentFocus = [
+    "Pioneering premium web platforms with React 19 + TypeScript + Tailwind v4 🚀",
+    "Building zero-hallucination citation engines for court-admissible Legal AI ⚖️",
+    "Translating ancient Vastu Shastra architectural principles into modern generative AI platforms 🏛️",
+    "Optimizing high-throughput Gujarati-English bilingual OCR pipelines with neural post-correction 🔤"
+  ];
+
+  public funFact = "Bridging the timeless wisdom of Vastu Shastra with futuristic agentic AI networks! 🏛️✨";
+}
 ```
 
 ---
@@ -99,7 +102,7 @@ const swetang = {
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
-### Frontend
+### Frontend & Styling
 ![React](https://img.shields.io/badge/React_19-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js_15-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS_4-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
@@ -135,12 +138,12 @@ const swetang = {
 <tr>
 <td width="50%" valign="top">
 
-### 🔴 [THIRD-EYE](https://github.com/SGajjar24/THIRD-EYE)
+### 👁️ [THIRD-EYE](https://github.com/SGajjar24/THIRD-EYE)
 **AI-Powered Security & Content Authenticity Platform**
 
-Gemini Hackathon Winner — Real-time deepfake detection and content authenticity verification using Gemini Vision Pro.
+*Gemini Hackathon Winner* — Real-time deepfake detection and content authenticity verification using Gemini Vision Pro.
 
-`Python` `Gemini Vision Pro` `Streamlit` `FAISS`
+`Python` `Gemini Vision` `Streamlit` `FAISS`
 
 ![Status](https://img.shields.io/badge/Status-Production-brightgreen?style=flat-square)
 ![Stars](https://img.shields.io/github/stars/SGajjar24/THIRD-EYE?style=flat-square&color=gold)
@@ -261,9 +264,17 @@ AI-assisted patent workflow — from prior art search to patent draft generation
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Developer Metrics & Stats
 
 <div align="center">
+
+### 🏆 Open Source Trophies
+<img src="https://github-profile-trophy.vercel.app/?username=SGajjar24&theme=onedark&column=7&margin-w=15&margin-h=15&no-bg=true" alt="GitHub Trophies" />
+
+<br/>
+<br/>
+
+### 📊 GitHub Activity & Language Analytics
 
 <a href="https://github.com/SGajjar24">
   <img src="https://github-readme-stats.vercel.app/api?username=SGajjar24&show_icons=true&count_private=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9&ring_color=00D9FF" alt="GitHub Stats" height="180" />
@@ -282,9 +293,9 @@ AI-assisted patent workflow — from prior art search to patent draft generation
 
 ---
 
-## 🎯 What I'm Building
+## 🎯 Active Architectural Focus Areas
 
-| Area | Focus |
+| Focus Area | Engineering Objectives |
 |:---|:---|
 | 🏛️ **Architecture AI** | Vastu Shastra meets modern construction tech — QuantTect, Architech, Sthapatya |
 | ⚖️ **Legal-Tech AI** | Zero-hallucination citation engines, RAG for legal docs, courtroom-grade AI |
@@ -293,6 +304,17 @@ AI-assisted patent workflow — from prior art search to patent draft generation
 | 🎨 **Premium Web Platforms** | Glassmorphism, 3D, micro-animations — dark-theme-first design systems |
 | 🛠️ **Developer Tools** | API testers, folder optimizers, AI tuners, patent tools |
 | 🛡️ **Defense Tech** | Mission-critical systems with MIL-STD, ITAR, AS9100D compliance |
+
+---
+
+## ⚖️ Licensing & Commercial Terms
+
+The intellectual property, code showcases, and projects hosted across my repositories are subject to the following licensing structure:
+
+* **Academic & Personal Usage**: Openly available under permissive open-source licenses (such as MIT) for personal study, technical evaluation, non-commercial experimentation, and contributions.
+* **Commercial & Professional Usage**: Requires explicit written commercial authorization. If you are interested in deploying any of these systems, integrating my AI/ML pipelines, or engaging in professional consulting opportunities, please establish direct contact via:
+  * 📧 **Email**: [gajjarswetang@gmail.com](mailto:gajjarswetang@gmail.com)
+  * 💼 **LinkedIn**: [Swetang Gajjar](https://www.linkedin.com/in/gajjarswetang/)
 
 ---
 
