@@ -182,10 +182,8 @@ A sophisticated, multi-agent RAG system designed for deep forensic analysis of c
 
 <div align="center">
 
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=python,ts,react,nextjs,tailwind,vite,nodejs,fastapi,firebase,aws,azure,docker,cpp,cs,tensorflow,opencv,git,github,vscode,figma&perline=10&theme=dark#gh-dark-mode-only" alt="Tech Stack" />
-  <img src="https://skillicons.dev/icons?i=python,ts,react,nextjs,tailwind,vite,nodejs,fastapi,firebase,aws,azure,docker,cpp,cs,tensorflow,opencv,git,github,vscode,figma&perline=10&theme=light#gh-light-mode-only" alt="Tech Stack" />
-</a>
+[![Tech Stack](https://skillicons.dev/icons?i=python,ts,react,nextjs,tailwind,vite,nodejs,fastapi,firebase,aws,azure,docker,cpp,cs,tensorflow,opencv,git,github,vscode,figma&perline=10&theme=dark#gh-dark-mode-only)](https://skillicons.dev)
+[![Tech Stack](https://skillicons.dev/icons?i=python,ts,react,nextjs,tailwind,vite,nodejs,fastapi,firebase,aws,azure,docker,cpp,cs,tensorflow,opencv,git,github,vscode,figma&perline=10&theme=light#gh-light-mode-only)](https://skillicons.dev)
 
 </div>
 
