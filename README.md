@@ -1,15 +1,18 @@
-﻿<div align="center">
+<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&customColorList=0d1117,00d9ff,0077b5,0d1117&height=200&section=header&text=Swetang%20Gajjar&fontSize=42&fontAlignY=35&desc=Senior%20Software%20Engineer%20%E2%80%A2%20AI/ML%20Engineer%20%E2%80%A2%20Defense%20Systems%20%E2%80%A2%20Architecture%20Tech&descAlignY=55&descSize=16&fontColor=FFFFFF&animation=twinkling" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&customColorList=0d1117,00d9ff,0077b5,0d1117&height=200&section=header&text=Swetang%20Gajjar&fontSize=42&fontAlignY=35&desc=Senior%20AI/ML%20Architect%20%E2%80%A2%20Systems%20Engineer%20%E2%80%A2%20Defense%20Technology&descAlignY=55&descSize=16&fontColor=FFFFFF&animation=twinkling" width="100%" />
 
 <br/>
 
 <img src="assets/hero-portrait.jpg" alt="Swetang Gajjar" width="180" style="border-radius: 50%; border: 4px solid #00D9FF; box-shadow: 0 0 20px rgba(0, 217, 255, 0.4);" />
 
 <br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00D9FF&background=0A0A0A00&center=true&vCenter=true&width=600&lines=Senior+AI%2FML+Architect;RAG+%26+LLM+Systems+Specialist;Defense+Systems+Engineer;Founder+of+VastuCraft+AI+Studio" alt="Typing SVG" />
+
 <br/>
 
-*Architecting next-generation intelligent platforms where military-grade reliability meets advanced AI.*
+*Architecting next-generation intelligent platforms where military-grade reliability meets advanced Generative AI.*
 
 <br/>
 
@@ -26,314 +29,337 @@
 
 ---
 
-## ≡ƒºá About Me
+## 🚀 About Me
 
-```typescript
-class SwetangGajjar implements SeniorEngineer, AIArchitect {
-  readonly name = "Swetang Gajjar";
-  readonly education = "M.S. Computer Engineering ΓÇö California State University, Fullerton";
-  readonly location = "California, USA";
-  readonly languages = ["English", "Gujarati", "Hindi"];
-
-  public skills = {
-    defenseSystems: ["MIL-STD-130N", "ITAR Compliance", "AS9100D", "Mission-Critical Software"],
-    artificialIntelligence: ["Gemini 2.5", "RAG Systems", "Bilingual OCR/NLP", "LangChain", "Vector DBs"],
-    webPlatforms: ["React 19", "Next.js 15", "TypeScript", "Tailwind CSS v4", "Framer Motion", "Three.js"],
-    backendEng: ["Node.js", "FastAPI", "Python", "C++", "Distributed Systems"]
-  };
-
-  public currentFocus = [
-    "Pioneering premium web platforms with React 19 + TypeScript + Tailwind v4 ≡ƒÜÇ",
-    "Building zero-hallucination citation engines for court-admissible Legal AI ΓÜû∩╕Å",
-    "Translating ancient Vastu Shastra architectural principles into modern generative AI platforms ≡ƒÅ¢∩╕Å",
-    "Optimizing high-throughput Gujarati-English bilingual OCR pipelines with neural post-correction ≡ƒöñ"
-  ];
-
-  public funFact = "Bridging the timeless wisdom of Vastu Shastra with futuristic agentic AI networks! ≡ƒÅ¢∩╕ÅΓ£¿";
-}
+```python
+class SwetangGajjar(SeniorAIArchitect, SystemsEngineer):
+    """
+    Bridging military-grade system reliability with advanced Generative AI architectures.
+    Over 12 years of hands-on expertise across critical defense systems, industrial automation,
+    grounded LLM design (RAG), and bilingual natural language processing.
+    """
+    def __init__(self):
+        self.name = "Swetang Gajjar"
+        self.role = "Lead Architect & Senior Systems Consultant"
+        self.location = "California, USA"
+        self.education = "M.S. Computer Engineering | California State University, Fullerton"
+        
+        self.core_domains = {
+            "Generative_AI": [
+                "Advanced RAG Architectures (Zero-Hallucination)",
+                "Agentic Workflows & Multi-Agent Orchestration",
+                "Long-Context Reasoning & Vector Databases"
+            ],
+            "Systems_&_Automation": [
+                "Industrial Automation & Machine Vision",
+                "MIL-STD-130N Compliance & Barcode/OCR Systems",
+                "Bilingual OCR Pipelines (Gujarati-English) + Neural Post-Correction"
+            ],
+            "Strategic_Leadership": [
+                "Engineering Management (Teams of 5+)",
+                "End-to-End Project Lifecycle Delivery (15+ key initiatives)",
+                "Cloud Cost Optimization (40% operational reduction)"
+            ]
+        }
+        
+        self.fun_fact = "Fusing the ancient principles of Vastu Shastra with state-of-the-art agentic AI frameworks!"
 ```
 
 ---
 
-## ≡ƒÆ╝ Professional Experience
+## 📈 Technical Leadership & Quantitative Impact
 
-<table>
-<tr>
-<td>
-
-**ΓÜÖ∩╕Å Senior Software Engineer ΓÇö Jetec Corporation**
-<br/>Led defense automation and mission-critical software projects for Lockheed Martin and Raytheon programs. Engineered systems meeting MIL-STD-130N, ITAR, and AS9100D compliance standards.
-
-</td>
-<td>
-
-**≡ƒÅ¢∩╕Å AI & Architecture Tech Consultant**
-<br/>Building AI-powered platforms for architecture firms ΓÇö Vastu Shastra analysis, smart building monitoring, and construction intelligence systems using Gemini AI.
-
-</td>
-</tr>
-<tr>
-<td>
-
-**ΓÜû∩╕Å Legal-Tech AI Engineer**
-<br/>Designing hallucination-resistant RAG systems for litigation support. Building court-admissible AI with grounded citation engines and bilingual legal NLP.
-
-</td>
-<td>
-
-**≡ƒÄô M.S. Computer Engineering**
-<br/>California State University, Fullerton ΓÇö Specialized in AI/ML, distributed systems, and high-performance computing.
-
-</td>
-</tr>
-</table>
-
-> ≡ƒôä *Full career details on [LinkedIn ΓåÆ](https://www.linkedin.com/in/gajjarswetang/)*
+<div align="center">
+  <table width="100%">
+    <tr>
+      <td width="33%" align="center">
+        <div style="border: 1px solid #1f2937; border-radius: 8px; padding: 15px; background: #0d1117; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
+          <h2 style="color: #00D9FF; margin: 0;">95%+</h2>
+          <p style="font-weight: bold; margin: 5px 0 0 0; color: #f3f4f6;">RAG System Accuracy</p>
+          <span style="font-size: 11px; color: #9ca3af;">Grounded Legal Document Anomaly Verification</span>
+        </div>
+      </td>
+      <td width="33%" align="center">
+        <div style="border: 1px solid #1f2937; border-radius: 8px; padding: 15px; background: #0d1117; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
+          <h2 style="color: #00D9FF; margin: 0;">-30%</h2>
+          <p style="font-weight: bold; margin: 5px 0 0 0; color: #f3f4f6;">Inference Latency</p>
+          <span style="font-size: 11px; color: #9ca3af;">Scale AI LLM Fine-Tuning & Code Optimization</span>
+        </div>
+      </td>
+      <td width="33%" align="center">
+        <div style="border: 1px solid #1f2937; border-radius: 8px; padding: 15px; background: #0d1117; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
+          <h2 style="color: #00D9FF; margin: 0;">40%</h2>
+          <p style="font-weight: bold; margin: 5px 0 0 0; color: #f3f4f6;">Cloud Cost Savings</p>
+          <span style="font-size: 11px; color: #9ca3af;">Through Serverless & Cloud Infrastructure Re-Architecture</span>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <td width="33%" align="center">
+        <div style="border: 1px solid #1f2937; border-radius: 8px; padding: 15px; background: #0d1117; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
+          <h2 style="color: #00D9FF; margin: 0;">99.9%</h2>
+          <p style="font-weight: bold; margin: 5px 0 0 0; color: #f3f4f6;">QA Verification</p>
+          <span style="font-size: 11px; color: #9ca3af;">MIL-STD-130N Compliant Barcode/OCR Precision</span>
+        </div>
+      </td>
+      <td width="33%" align="center">
+        <div style="border: 1px solid #1f2937; border-radius: 8px; padding: 15px; background: #0d1117; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
+          <h2 style="color: #00D9FF; margin: 0;">15+</h2>
+          <p style="font-weight: bold; margin: 5px 0 0 0; color: #f3f4f6;">Enterprise Projects</p>
+          <span style="font-size: 11px; color: #9ca3af;">Successfully Handled End-to-End Lifecycles</span>
+        </div>
+      </td>
+      <td width="33%" align="center">
+        <div style="border: 1px solid #1f2937; border-radius: 8px; padding: 15px; background: #0d1117; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
+          <h2 style="color: #00D9FF; margin: 0;">5+</h2>
+          <p style="font-weight: bold; margin: 5px 0 0 0; color: #f3f4f6;">Engineers Led</p>
+          <span style="font-size: 11px; color: #9ca3af;">Directed Team Delivery at Jetec Corporation</span>
+        </div>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
-## ΓÜí Tech Stack
+## 🎖️ Professional Certifications & Badges
 
 <div align="center">
 
-### Languages
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Microsoft Fabric](https://img.shields.io/badge/Microsoft-Fabric%20Analytics%20Engineer%20Associate-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+![Microsoft Azure AI](https://img.shields.io/badge/Microsoft-Azure%20AI%20Fundamentals-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
 
-### Frontend & Styling
-![React](https://img.shields.io/badge/React_19-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js_15-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS_4-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
+<br/>
 
-### Backend & AI
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Gemini AI](https://img.shields.io/badge/Gemini_AI-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-
-### Defense & Compliance
-![MIL-STD](https://img.shields.io/badge/MIL--STD--130N-2F4F4F?style=for-the-badge)
-![ITAR](https://img.shields.io/badge/ITAR_Compliant-2F4F4F?style=for-the-badge)
-![AS9100D](https://img.shields.io/badge/AS9100D-2F4F4F?style=for-the-badge)
-
-### DevOps & Tools
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![AWS Anomaly Detection](https://img.shields.io/badge/AWS-Anomaly%20Detection%20%26%20CV-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![AWS IoT Specialist](https://img.shields.io/badge/AWS-IoT%20Specialist%20%28Greengrass%29-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 
 </div>
 
 ---
 
-## ≡ƒÜÇ Featured Projects
+## 🛡️ Key Enterprise & Defense Clients Footprint
 
-<table>
-<tr>
-<td width="50%" valign="top">
+Showcase of leading organizations and defense programs for which I have engineered mission-critical marking, vision, and industrial automation software systems:
 
-### ≡ƒæü∩╕Å [THIRD-EYE](https://github.com/SGajjar24/THIRD-EYE)
-**AI-Powered Security & Content Authenticity Platform**
+<div align="center">
 
-*Gemini Hackathon Winner* ΓÇö Real-time deepfake detection and content authenticity verification using Gemini Vision Pro.
-
-`Python` `Gemini Vision` `Streamlit` `FAISS`
-
-![Status](https://img.shields.io/badge/Status-Production-brightgreen?style=flat-square)
-![Stars](https://img.shields.io/github/stars/SGajjar24/THIRD-EYE?style=flat-square&color=gold)
-
-</td>
-<td width="50%" valign="top">
-
-### ΓÜû∩╕Å [Legal Document RAG Starter](https://github.com/SGajjar24/legal-document-rag-starter)
-**Production-Ready RAG for Legal Analysis**
-
-Hallucination-resistant RAG system for legal document analysis with 95%+ recall on contradiction detection. Court-admissible AI outputs.
-
-`LangChain` `FAISS` `Python` `Gemini`
-
-![Status](https://img.shields.io/badge/Status-Production-brightgreen?style=flat-square)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### ≡ƒö¼ [Courtroom AI Citation Engine](https://github.com/SGajjar24/courtroom-ai-citation-engine)
-**Forcing LLMs to Cite Sources Like a Paralegal**
-
-Zero-hallucination citation engine that forces LLMs to produce verifiable, court-admissible citations with legal document grounding.
-
-`Python` `LangChain` `Legal NLP` `RAG`
-
-![Status](https://img.shields.io/badge/Status-Active_Dev-blue?style=flat-square)
-
-</td>
-<td width="50%" valign="top">
-
-### ≡ƒìü [CanadaPath AI](https://github.com/SGajjar24/canadapath-ai)
-**AI-Powered Canadian Immigration Assistant**
-
-Comprehensive immigration guidance with CRS calculator, Express Entry/PNP pathway analysis, and Gemini-powered chatbot.
-
-`React` `Firebase` `Gemini Pro` `TypeScript`
-
-![Status](https://img.shields.io/badge/Status-Production-brightgreen?style=flat-square)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### ≡ƒôü [Folder Intelligence](https://github.com/SGajjar24/folder-intelligence)
-**The Complete File System Optimization Pipeline**
-
-Enterprise-grade file organization ΓÇö audit, declutter, rename, deduplicate, document. Smart CLI that reads PDFs, Word docs, images via OCR. 100% offline.
-
-`Python` `CLI` `OCR` `File Analysis`
-
-![Status](https://img.shields.io/badge/Status-Production-brightgreen?style=flat-square)
-
-</td>
-<td width="50%" valign="top">
-
-### ≡ƒöñ [Multilingual OCR Pipeline](https://github.com/SGajjar24/multilingual-ocr-pipeline)
-**Gujarati + English OCR with AI Post-Correction**
-
-Advanced bilingual OCR pipeline for Gujarati script recognition with deep-learning post-correction and NLP enhancement.
-
-`Python` `TensorFlow` `OpenCV` `NLP`
-
-![Status](https://img.shields.io/badge/Status-Active_Dev-blue?style=flat-square)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### ≡ƒÅù∩╕Å [Archi-Tech Platform](https://github.com/SGajjar24/archi-tech-platform)
-**Modern Architecture Landing Page**
-
-High-performance, visually stunning landing page for a modern architecture firm with premium design and animations.
-
-`React` `TypeScript` `Tailwind CSS` `Framer Motion`
-
-![Status](https://img.shields.io/badge/Status-Production-brightgreen?style=flat-square)
-
-</td>
-<td width="50%" valign="top">
-
-### ≡ƒ¢í∩╕Å [Patent Pilot Beta](https://github.com/SGajjar24/Patent-Pilot--Beta)
-**Patent Filing, Creation & Search Tool**
-
-AI-assisted patent workflow ΓÇö from prior art search to patent draft generation with intelligent document analysis.
-
-`Python` `AI/ML` `Patent Analysis`
-
-![Status](https://img.shields.io/badge/Status-Beta-orange?style=flat-square)
-
-</td>
-</tr>
-</table>
-
-<details>
-<summary><b>≡ƒôª More Projects</b></summary>
+![Northrop Grumman](https://img.shields.io/badge/Northrop--Grumman-Defense%20Systems-1E3A8A?style=flat-square)
+![Raytheon](https://img.shields.io/badge/Raytheon--Technologies-Aerospace-D97706?style=flat-square)
+![Lockheed Martin](https://img.shields.io/badge/Lockheed--Martin-Defense-0F172A?style=flat-square)
+![Crane Army](https://img.shields.io/badge/Crane--Army-Ammunition-4B5563?style=flat-square)
 
 <br/>
 
-| Project | Description | Stack |
+![Mercury Systems](https://img.shields.io/badge/Mercury--Systems-Defense%20IT-2563EB?style=flat-square)
+![Honeywell](https://img.shields.io/badge/Honeywell-Automation-E11D48?style=flat-square)
+![Teledyne](https://img.shields.io/badge/Teledyne%20Technologies-Sensor%20Systems-0D9488?style=flat-square)
+![SAMTEC](https://img.shields.io/badge/SAMTEC-Semiconductors-0284C7?style=flat-square)
+![Amkor](https://img.shields.io/badge/Amkor%20Technology-Packaging-7C3AED?style=flat-square)
+
+</div>
+
+---
+
+## 💼 Professional Timeline & Experience
+
+| Period | Role | Focus & Key Achievements |
 |:---|:---|:---|
-| [Indian Tax Frontend](https://github.com/SGajjar24/indian-tax-frontend) | Indian tax calculator web interface | React ┬╖ TypeScript |
-| [Indian Tax Calculator Backend](https://github.com/SGajjar24/indian-tax-calculator-backend) | Tax computation API service | Python ┬╖ FastAPI |
-| [Stiggy E-commerce](https://github.com/SGajjar24/stiggy) | Premium streetwear e-commerce demo with AI Stylist | React ┬╖ TypeScript ┬╖ Gemini AI |
-| [Sthapatya Design Studio](https://github.com/SGajjar24/Sthapatya) | Architecture & interior design firm website | React ┬╖ TypeScript |
-| [Legal Intelligence Docs](https://github.com/SGajjar24/legal-intelligence-docs) | Public docs & whitepapers for Legal Intelligence | Markdown ┬╖ Research |
-| [AI Job Finder](https://github.com/SGajjar24/AI-JOB-Finder-with-Preparation) | AI-powered job search with interview prep | Python ┬╖ AI/ML |
-| [Biodata Creator](https://github.com/SGajjar24/BIODATA-CREATOR) | Indian matrimonial biodata generator | HTML ┬╖ JavaScript |
-| [Browser Excel Viewer](https://github.com/SGajjar24/BROWSER-EXCEL-FILE-VIEWER) | In-browser Excel file viewer | JavaScript |
-| [Text Extractor Tool](https://github.com/SGajjar24/Text-Extractor-Tool) | Universal text extraction utility | Python |
-| [AI File Data Organizer](https://github.com/SGajjar24/AI-File-DATA-organizer) | AI-powered file data organization | Python |
+| **2024 - Present** | **Senior AI/ML Architect & Consultant** | Independent. Architected grounded RAG legal document pipelines (95%+ anomaly detection accuracy) and high-throughput bilingual Gujarati-English OCR pipelines with neural correction. |
+| **2024 - 2025** | **AI Engineer (Contract @ Scale AI)** | Engineered high-quality LLM alignment benchmarks and training datasets. Optimized AI coding algorithms, achieving a **30% reduction in inference latency**. |
+| **2022 - Present** | **Independent Software Consultant** | Led end-to-end project lifecycles for 15+ client engagements across defense and tech. Achieved a **40% operational cloud cost reduction**. |
+| **2017 - 2022** | **Senior Software Engineer (Jetec Corp)** | Led a team of 5 engineers developing next-gen industrial automation systems. Built **MIL-STD-130N & ITAR compliant** OCR barcode marking software for key defense programs. |
+| **2016 - 2017** | **Associate Software Engineer (Jetec Corp)** | Modernized motion controlling software enabling precise 4-axis control and improving industrial marking system reliability by **35%**. |
+
+> *Full professional chronology, portfolio media, and client details are available on my [LinkedIn Profile](https://www.linkedin.com/in/gajjarswetang/).*
+
+---
+
+## 🌟 Flagship AI Project Spotlight
+
+### 🧠 [Agentic System for Automated Document Forensic Analysis (2024 - Present)](https://github.com/SGajjar24)
+**Enterprise-Grade Forensic RAG Engine for Regulated Domains**
+
+A sophisticated, multi-agent RAG system designed for deep forensic analysis of complex document lineages (revenue records, land deeds, and court filings). The system provides fully traceable, non-hallucinatory reasoning to identify structural inconsistencies, timeline anomalies, and ownership lineage alterations over multi-decade spans.
+
+*   **Zero-Hallucination Grounding**: Custom retrieval flow that forces LLMs to produce verifiable, court-admissible citations.
+*   **Temporal Entity Resolution**: Recovers identity and ownership changes across decades of highly fragmented OCR records.
+*   **Hybrid Multilingual Processing**: Full OCR pipeline support for bilingual Gujarati-English texts with transformer-based post-correction.
+*   **Tech Stack**: `Gemini 2.5 Flash/Pro` • `NotebookLM` • `Python` • `Vector Databases (FAISS)` • `Langflow` • `LangChain` • `MCP/Antigravity`
+
+---
+
+## 🛠️ Complete Technical Stack
+
+<div align="center">
+
+### GenAI & Agentic Architectures
+![Gemini AI](https://img.shields.io/badge/Gemini_AI-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![Langflow](https://img.shields.io/badge/Langflow-FF6B6B?style=for-the-badge)
+![Vector DBs](https://img.shields.io/badge/Vector_DBs_(FAISS/Chroma)-00D9FF?style=for-the-badge)
+
+### Languages & Systems Engineering
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Embedded C](https://img.shields.io/badge/Embedded_C-4B5563?style=for-the-badge)
+
+### Premium Frontend & Web Development
+![React 19](https://img.shields.io/badge/React_19-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js 15](https://img.shields.io/badge/Next.js_15-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Tailwind CSS 4](https://img.shields.io/badge/Tailwind_CSS_4-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+
+### Backend, Cloud & Databases
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+### Industrial & Defense Standards
+![MIL-STD](https://img.shields.io/badge/MIL--STD--130N-2F4F4F?style=for-the-badge)
+![ITAR](https://img.shields.io/badge/ITAR_Compliant-2F4F4F?style=for-the-badge)
+![AS9100D](https://img.shields.io/badge/AS9100D-2F4F4F?style=for-the-badge)
+![ISO 9001](https://img.shields.io/badge/ISO_9001-2F4F4F?style=for-the-badge)
+
+</div>
+
+---
+
+## 📁 Curated Project Showcases
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🏛️ Generative AI & Agentic RAG</h3>
+      
+**[VastuCraft AI Studio](https://betaversion1.vercel.app)**  
+*Fusing Ancient Wisdom with Generative Architecture*  
+Premium application fusing traditional Vastu Shastra principles with generative AI architectures. Features an interactive analysis canvas and serverless API gateway.  
+`React 19` `TypeScript` `Tailwind v4` `Gemini 2.5`  
+![Status](https://img.shields.io/badge/Status-Production-brightgreen?style=flat-square)
+
+**[Courtroom AI Citation Engine](https://github.com/SGajjar24)**  
+*Forcing LLMs to Cite Sources Like a Paralegal*  
+A zero-hallucination legal retrieval pipeline that forces LLMs to produce verifiable, court-admissible legal source citations.  
+`Python` `LangChain` `Legal NLP` `RAG`  
+![Status](https://img.shields.io/badge/Status-Active_Dev-blue?style=flat-square)
+
+**[CanadaPath AI](https://github.com/SGajjar24)**  
+*AI-Powered Canadian Immigration Guide*  
+Comprehensive immigration assistant with CRS scorecard calculation, PNP pathway analyzer, and interactive chatbot.  
+`React` `Firebase` `Gemini Pro` `TypeScript`  
+![Status](https://img.shields.io/badge/Status-Production-brightgreen?style=flat-square)
+    </td>
+    <td width="50%" valign="top">
+      <h3>🛠️ Core Systems, OCR & Utilities</h3>
+      
+**[Aether AI System Tuner](https://github.com/SGajjar24/aether-ai-tuner)**  
+*Model Performance Tuning & Monitoring*  
+A modern web-based dashboard and CLI tool to configure, profile, and optimize LLMs and RAG system latency parameters.  
+`React 19` `TypeScript` `Tailwind v4` `Node.js`  
+![Status](https://img.shields.io/badge/Status-Production-brightgreen?style=flat-square)
+
+**[Folder Intelligence](https://github.com/SGajjar24/folder-intelligence)**  
+*Enterprise File System Optimization Pipeline*  
+A fully-offline, smart command-line interface that audits, deduplicates, structures, and indexes file repositories using local text-extraction and OCR.  
+`Python` `CLI` `OCR` `System Audit`  
+![Status](https://img.shields.io/badge/Status-Production-brightgreen?style=flat-square)
+
+**[Multilingual OCR Pipeline](https://github.com/SGajjar24)**  
+*Gujarati + English OCR with NLP Correction*  
+A dual-script OCR processing engine utilizing convolutional networks and NLP-based semantic spelling/grammar refinement.  
+`Python` `TensorFlow` `OpenCV` `NLP`  
+![Status](https://img.shields.io/badge/Status-Active_Dev-blue?style=flat-square)
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🎨 Creative & Architectural Web</h3>
+      
+**[Archi-Tech Platform](https://github.com/SGajjar24)**  
+*Modern High-End Landing Page*  
+High-performance landing client built for custom design and structural consulting agencies, utilizing state-of-the-art animations.  
+`React 19` `TypeScript` `Tailwind v4` `Framer Motion`  
+![Status](https://img.shields.io/badge/Status-Production-brightgreen?style=flat-square)
+
+**[Sthapatya Design Studio](https://github.com/SGajjar24)**  
+*Premium Architectural Portfolio*  
+Sleek, minimalist design portfolio showcasing interior architectures, high-resolution rendering galleries, and client portals.  
+`React` `TypeScript` `Tailwind CSS`  
+![Status](https://img.shields.io/badge/Status-Production-brightgreen?style=flat-square)
+    </td>
+    <td width="50%" valign="top">
+      <h3>🧬 Specialist Applications</h3>
+      
+**[Patent Pilot Beta](https://github.com/SGajjar24)**  
+*AI-Assisted Patent Workflows*  
+Intelligent draft generator and legal document compiler designed to facilitate initial patent filing searches and claim formatting.  
+`Python` `AI/ML` `Patent Analysis`  
+![Status](https://img.shields.io/badge/Status-Beta-orange?style=flat-square)
+
+**[THIRD-EYE](https://github.com/SGajjar24/THIRD-EYE)**  
+*AI-Powered Security & Content Authenticity*  
+*Gemini Hackathon Winner* • Real-time image and video authenticity verification with custom vector-grounded matching.  
+`Python` `Gemini Vision` `Streamlit` `FAISS`  
+![Status](https://img.shields.io/badge/Status-Production-brightgreen?style=flat-square)
+    </td>
+  </tr>
+</table>
+
+<details>
+<summary><b>📂 Additional Project Repositories</b></summary>
+<br/>
+
+| Repository | Project Focus & Category | Technical Stack |
+|:---|:---|:---|
+| [Indian Tax Frontend](https://github.com/SGajjar24) | Regional Matrimonial & Personal Finance Tool | React • TypeScript |
+| [Indian Tax Calculator Backend](https://github.com/SGajjar24) | Distributed Financial Estimation API Service | Python • FastAPI |
+| [Stiggy E-commerce](https://github.com/SGajjar24/stiggy) | Premium Streetwear storefront with integrated AI Stylist | React • TypeScript • Gemini |
+| [Legal Intelligence Docs](https://github.com/SGajjar24) | Open-source R&D repository for Courtroom AI studies | Markdown • Documentation |
+| [AI Job Finder](https://github.com/SGajjar24) | Interview preparation and resume parser pipeline | Python • AI/ML |
+| [Matrimonial Biodata Creator](https://github.com/SGajjar24) | Matrimonial document form generator | HTML • JavaScript |
+| [Browser Excel Viewer](https://github.com/SGajjar24) | Low-level file system viewer tool | Vanilla JS |
+| [Text Extractor Tool](https://github.com/SGajjar24) | Multi-format extraction script | Python |
+| [AI File Data Organizer](https://github.com/SGajjar24) | Automated file classification utility | Python |
 
 </details>
 
 ---
 
-## ≡ƒôè Developer Metrics & Stats
+## ⚖️ Licensing & Commercial Engagement Terms
+
+The software solutions, design architectures, and research libraries hosted within my public repositories are licensed under the following structural framework:
+
+*   **Educational & Personal Usage**: Openly available under the permissive **MIT License** for academic evaluation, personal research, open-source contribution, and independent learning.
+*   **Commercial & Enterprise Integration**: Enterprise implementation, proprietary deployment, or commercial integration of these RAG pipelines, barcode compliance architectures, or Vastu Shastra AI engines **requires a formal commercial licensing agreement**.
+*   **Consulting & Professional Services**: To discuss consulting opportunities, architectural advisory, or bespoke systems integration, please contact me directly:
+    *   ✉️ **Email**: [gajjarswetang@gmail.com](mailto:gajjarswetang@gmail.com)
+    *   🤝 **LinkedIn**: [Swetang Gajjar](https://www.linkedin.com/in/gajjarswetang/)
+
+---
 
 <div align="center">
 
-### ≡ƒÅå Open Source Trophies
-<img src="https://github-profile-trophy.vercel.app/?username=SGajjar24&theme=onedark&column=7&margin-w=15&margin-h=15&no-bg=true" alt="GitHub Trophies" />
+### 🤝 Let's Connect & Collaborate
+
+Whether you're looking to integrate **military-grade industrial barcode automation**, design a **zero-hallucination agentic RAG solution**, or craft a **premium React 19 web experience**—let's build something world-class together.
+
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-gajjarswetang-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gajjarswetang/)
+[![Email Badge](https://img.shields.io/badge/Email-gajjarswetang%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gajjarswetang@gmail.com)
+[![GitHub Badge](https://img.shields.io/badge/GitHub-SGajjar24-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SGajjar24)
 
 <br/>
-<br/>
-
-### ≡ƒôè GitHub Activity & Language Analytics
-
-<a href="https://github.com/SGajjar24">
-  <img src="https://github-readme-stats.vercel.app/api?username=SGajjar24&show_icons=true&count_private=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9&ring_color=00D9FF" alt="GitHub Stats" height="180" />
-</a>
-<a href="https://github.com/SGajjar24">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SGajjar24&layout=compact&count_private=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9" alt="Top Languages" height="180" />
-</a>
-
-<br/>
-
-<a href="https://github.com/SGajjar24">
-  <img src="https://streak-stats.demolab.com?user=SGajjar24&theme=github-dark-blue&hide_border=true&background=0D1117&ring=00D9FF&fire=FF6B35&currStreakLabel=00D9FF" alt="GitHub Streak" height="180" />
-</a>
-
-</div>
-
----
-
-## ≡ƒÄ» Active Architectural Focus Areas
-
-| Focus Area | Engineering Objectives |
-|:---|:---|
-| ≡ƒÅ¢∩╕Å **Architecture AI** | Vastu Shastra meets modern construction tech ΓÇö QuantTect, Architech, Sthapatya |
-| ΓÜû∩╕Å **Legal-Tech AI** | Zero-hallucination citation engines, RAG for legal docs, courtroom-grade AI |
-| ≡ƒñû **Gemini AI Integration** | Building production AI features with Google's Gemini 2.5 models |
-| ≡ƒöñ **Gujarati NLP/OCR** | Deep-learning OCR for Gujarati script + bilingual text processing |
-| ≡ƒÄ¿ **Premium Web Platforms** | Glassmorphism, 3D, micro-animations ΓÇö dark-theme-first design systems |
-| ≡ƒ¢á∩╕Å **Developer Tools** | API testers, folder optimizers, AI tuners, patent tools |
-| ≡ƒ¢í∩╕Å **Defense Tech** | Mission-critical systems with MIL-STD, ITAR, AS9100D compliance |
-
----
-
-## ΓÜû∩╕Å Licensing & Commercial Terms
-
-The intellectual property, code showcases, and projects hosted across my repositories are subject to the following licensing structure:
-
-* **Academic & Personal Usage**: Openly available under permissive open-source licenses (such as MIT) for personal study, technical evaluation, non-commercial experimentation, and contributions.
-* **Commercial & Professional Usage**: Requires explicit written commercial authorization. If you are interested in deploying any of these systems, integrating my AI/ML pipelines, or engaging in professional consulting opportunities, please establish direct contact via:
-  * ≡ƒôº **Email**: [gajjarswetang@gmail.com](mailto:gajjarswetang@gmail.com)
-  * ≡ƒÆ╝ **LinkedIn**: [Swetang Gajjar](https://www.linkedin.com/in/gajjarswetang/)
-
----
-
-## ≡ƒô½ Let's Connect
-
-<div align="center">
-
-I'm always open to interesting conversations and collaboration opportunities.
-
-Whether it's **AI/ML**, **defense systems**, **architecture tech**, **legal-tech**, or just a good tech discussion ΓÇö reach out!
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-gajjarswetang-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gajjarswetang/)
-[![Email](https://img.shields.io/badge/Email-gajjarswetang@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gajjarswetang@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-SGajjar24-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SGajjar24)
-
----
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19,24,30&height=100&section=footer" width="100%" />
 
-*"Bridging military-grade system reliability with advanced AI ΓÇö one commit at a time."*
+*"Bridging military-grade systems reliability with advanced Artificial Intelligence — one commit at a time."*
 
 </div>
