@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&customColorList=0d1117,00d9ff,0077b5,0d1117&height=200&section=header&text=Swetang%20Gajjar&fontSize=42&fontAlignY=35&desc=Senior%20AI/ML%20Architect%20%E2%80%A2%20Systems%20Engineer%20%E2%80%A2%20Defense%20Technology&descAlignY=55&descSize=16&fontColor=FFFFFF&animation=twinkling" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&customColorList=0d1117,00d9ff,0077b5,0d1117&height=200&section=header&text=Swetang%20Gajjar&fontSize=42&fontAlignY=35&desc=Engineering%20Manager%20%7C%20Lead%20AI%20Architect%20%7C%20Defense%20Systems%20Expert&descAlignY=55&descSize=16&fontColor=FFFFFF&animation=twinkling" width="100%" />
 
 <br/>
 
@@ -158,6 +158,89 @@ Showcase of leading organizations and defense programs for which I have engineer
 ![Amkor](https://img.shields.io/badge/Amkor%20Technology-Packaging-7C3AED?style=flat-square)
 
 </div>
+
+---
+
+
+## 🏆 Elite Engineering Milestones & Technical Trophies
+
+<div align="center">
+<table style="border: none; border-collapse: collapse;">
+  <tr>
+    <td align="center" style="border: none; padding: 10px;">
+      <img src="https://img.shields.io/badge/🏆_AI_Architect-12+_Years_Leadership-00D9FF?style=for-the-badge&logo=cpu&logoColor=white" alt="AI Architect" /><br/>
+      <small>Enterprise Systems Design</small>
+    </td>
+    <td align="center" style="border: none; padding: 10px;">
+      <img src="https://img.shields.io/badge/🛡️_Defense_Champion-ITAR_%26_MIL_STD-1E3A8A?style=for-the-badge&logo=shield&logoColor=white" alt="Defense Champion" /><br/>
+      <small>Lockheed & Raytheon Standards</small>
+    </td>
+    <td align="center" style="border: none; padding: 10px;">
+      <img src="https://img.shields.io/badge/🧠_RAG_Pioneer-95%25+_Document_Accuracy-0D9488?style=for-the-badge&logo=openai&logoColor=white" alt="RAG Pioneer" /><br/>
+      <small>Zero-Hallucination Engines</small>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" style="border: none; padding: 10px;">
+      <img src="https://img.shields.io/badge/💎_Cloud_Optimizer-40%25_Cost_Reduction-7C3AED?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="Cloud Optimizer" /><br/>
+      <small>SaaS Cost Architecture</small>
+    </td>
+    <td align="center" style="border: none; padding: 10px;">
+      <img src="https://img.shields.io/badge/👑_Engineering_Lead-Team_Leadership_(5%2B)-D97706?style=for-the-badge&logo=diagram-next&logoColor=white" alt="Engineering Lead" /><br/>
+      <small>15+ Flagship Lifecycles</small>
+    </td>
+    <td align="center" style="border: none; padding: 10px;">
+      <img src="https://img.shields.io/badge/🎓_M.S._Computer_Eng-CSU_Fullerton-4B5563?style=for-the-badge&logo=graduation-cap&logoColor=white" alt="M.S. Computer Engineering" /><br/>
+      <small>Specialized in AI/ML & Systems</small>
+    </td>
+  </tr>
+</table>
+</div>
+
+---
+
+## 📊 Core Technology Analytics & Domain Expertise
+
+<div align="center">
+<table width="90%">
+  <tr>
+    <th width="35%" align="left">Core Competency Domain</th>
+    <th width="45%" align="left">Expertise Level & Progress</th>
+    <th width="20%" align="center">Rating Badge</th>
+  </tr>
+  <tr>
+    <td><b>🤖 GenAI & Agentic RAG Systems</b><br/><small>LangGraph, LangChain, Hybrid Retrieval, Grounded Citations</small></td>
+    <td><code>█████████████████████████████████░</code> <b>97%</b></td>
+    <td align="center"><img src="https://img.shields.io/badge/Level-Elite-00D9FF?style=flat-square" alt="Elite Level" /></td>
+  </tr>
+  <tr>
+    <td><b>🛡️ Military & Defense Engineering</b><br/><small>ITAR Compliance, MIL-STD-130N, AS9100D, Real-Time C++</small></td>
+    <td><code>████████████████████████████████░░</code> <b>95%</b></td>
+    <td align="center"><img src="https://img.shields.io/badge/Level-Expert-1E3A8A?style=flat-square" alt="Expert Level" /></td>
+  </tr>
+  <tr>
+    <td><b>🔤 Bilingual OCR & NLP Pipelines</b><br/><small>Neural Gujarati-English OCR, OpenCV, AI Post-Correction</small></td>
+    <td><code>████████████████████████████████░░</code> <b>94%</b></td>
+    <td align="center"><img src="https://img.shields.io/badge/Level-Expert-0D9488?style=flat-square" alt="Expert Level" /></td>
+  </tr>
+  <tr>
+    <td><b>💎 Cloud Architecture & Cost Optimization</b><br/><small>AWS/Azure Infrastructure, Cloud Cost Modeling, Re-architecting</small></td>
+    <td><code>██████████████████████████████░░░░</code> <b>90%</b></td>
+    <td align="center"><img src="https://img.shields.io/badge/Level-Advanced-7C3AED?style=flat-square" alt="Advanced Level" /></td>
+  </tr>
+  <tr>
+    <td><b>👑 Product Leadership & Execution</b><br/><small>Managing Teams of 5+, Overseeing 15+ Core Enterprise Releases</small></td>
+    <td><code>███████████████████████████████░░░</code> <b>92%</b></td>
+    <td align="center"><img src="https://img.shields.io/badge/Level-Lead-D97706?style=flat-square" alt="Lead Level" /></td>
+  </tr>
+  <tr>
+    <td><b>💻 Language Proficiencies</b><br/><small>Python, TypeScript/React 19, C++, C#, SQL & Vector DBs</small></td>
+    <td><code>█████████████████████████████████░</code> <b>96%</b></td>
+    <td align="center"><img src="https://img.shields.io/badge/Level-Elite-4B5563?style=flat-square" alt="Elite Level" /></td>
+  </tr>
+</table>
+</div>
+
 
 ---
 
