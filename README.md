@@ -83,22 +83,22 @@ class SwetangGajjar(SeniorAIArchitect, SystemsEngineer):
   </tr>
   <tr>
     <td><b>🚀 Grounded GenAI & RAG</b><br/><sub>Forensic Retrieval & Legal Reasoning</sub></td>
-    <td><code>████████████████████████████████░░░</code> <b>95%+ Retrieval Accuracy</b></td>
+    <td><code>██████████████████░░</code> <b>95%+ Retrieval Accuracy</b></td>
     <td align="center"><img src="https://img.shields.io/badge/Status-Grounded-00D9FF?style=flat-square" /></td>
   </tr>
   <tr>
     <td><b>⚡ LLM Fine-Tuning & Quantization</b><br/><sub>Inference Optimization & Latency Control</sub></td>
-    <td><code>██████████████████████████████░░░░░</code> <b>-30% Compute Latency</b></td>
+    <td><code>█████████████████░░░</code> <b>-30% Compute Latency</b></td>
     <td align="center"><img src="https://img.shields.io/badge/Status-Optimized-8B5CF6?style=flat-square" /></td>
   </tr>
   <tr>
     <td><b>☁️ Cloud Cost Engineering</b><br/><sub>Serverless Architecture & Infrastructure Design</sub></td>
-    <td><code>████████████████████████████░░░░░░░</code> <b>40% Infrastructure Savings</b></td>
+    <td><code>████████████████░░░░</code> <b>40% Infrastructure Savings</b></td>
     <td align="center"><img src="https://img.shields.io/badge/Status-Slashed-10B981?style=flat-square" /></td>
   </tr>
   <tr>
     <td><b>👁️ Machine Vision & OCR Precision</b><br/><sub>Bilingual Neural OCR & MIL-STD Marking</sub></td>
-    <td><code>█████████████████████████████████░░</code> <b>99.9% QA Precision Rate</b></td>
+    <td><code>████████████████████</code> <b>99.9% QA Precision Rate</b></td>
     <td align="center"><img src="https://img.shields.io/badge/Status-Military_Grade-F59E0B?style=flat-square" /></td>
   </tr>
 </table>
@@ -117,32 +117,32 @@ class SwetangGajjar(SeniorAIArchitect, SystemsEngineer):
   </tr>
   <tr>
     <td><b>🤖 GenAI & Agentic RAG Systems</b><br/><sub>LangGraph, LangChain, Hybrid Retrieval, Grounded Citations</sub></td>
-    <td><code>██████████████████████████████████░</code> <b>97%</b></td>
+    <td><code>███████████████████░</code> <b>97%</b></td>
     <td align="center"><img src="https://img.shields.io/badge/Level-Elite-00D9FF?style=flat-square" alt="Elite Level" /></td>
   </tr>
   <tr>
     <td><b>🛡️ Military & Defense Engineering</b><br/><sub>ITAR Compliance, MIL-STD-130N, AS9100D, Real-Time C++</sub></td>
-    <td><code>█████████████████████████████████░░</code> <b>95%</b></td>
+    <td><code>███████████████████░</code> <b>95%</b></td>
     <td align="center"><img src="https://img.shields.io/badge/Level-Expert-1E3A8A?style=flat-square" alt="Expert Level" /></td>
   </tr>
   <tr>
     <td><b>🔤 Bilingual OCR & NLP Pipelines</b><br/><sub>Neural Gujarati-English OCR, OpenCV, AI Post-Correction</sub></td>
-    <td><code>█████████████████████████████████░░</code> <b>94%</b></td>
+    <td><code>███████████████████░</code> <b>94%</b></td>
     <td align="center"><img src="https://img.shields.io/badge/Level-Expert-0D9488?style=flat-square" alt="Expert Level" /></td>
   </tr>
   <tr>
     <td><b>💎 Cloud Architecture & Cost Optimization</b><br/><sub>AWS/Azure Infrastructure, Cloud Cost Modeling, Re-architecting</sub></td>
-    <td><code>███████████████████████████████░░░░</code> <b>90%</b></td>
+    <td><code>██████████████████░░</code> <b>90%</b></td>
     <td align="center"><img src="https://img.shields.io/badge/Level-Advanced-7C3AED?style=flat-square" alt="Advanced Level" /></td>
   </tr>
   <tr>
     <td><b>👑 Product Leadership & Execution</b><br/><sub>Managing Teams of 5+, Overseeing 15+ Core Enterprise Releases</sub></td>
-    <td><code>████████████████████████████████░░░</code> <b>92%</b></td>
+    <td><code>██████████████████░░</code> <b>92%</b></td>
     <td align="center"><img src="https://img.shields.io/badge/Level-Lead-D97706?style=flat-square" alt="Lead Level" /></td>
   </tr>
   <tr>
     <td><b>💻 Language Proficiencies</b><br/><sub>Python, TypeScript/React 19, C++, C#, SQL & Vector DBs</sub></td>
-    <td><code>██████████████████████████████████░</code> <b>96%</b></td>
+    <td><code>███████████████████░</code> <b>96%</b></td>
     <td align="center"><img src="https://img.shields.io/badge/Level-Elite-4B5563?style=flat-square" alt="Elite Level" /></td>
   </tr>
 </table>
@@ -182,11 +182,10 @@ A sophisticated, multi-agent RAG system designed for deep forensic analysis of c
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python,ts,react,nextjs,tailwind,vite,nodejs,fastapi,firebase,aws,azure,docker,cpp,cs,tensorflow,opencv,git,github,vscode,figma&perline=10&theme=dark&v=1.3" />
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=python,ts,react,nextjs,tailwind,vite,nodejs,fastapi,firebase,aws,azure,docker,cpp,cs,tensorflow,opencv,git,github,vscode,figma&perline=10&theme=light&v=1.3" />
-  <img src="https://skillicons.dev/icons?i=python,ts,react,nextjs,tailwind,vite,nodejs,fastapi,firebase,aws,azure,docker,cpp,cs,tensorflow,opencv,git,github,vscode,figma&perline=10&theme=dark&v=1.3" alt="Tech Stack" />
-</picture>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=python,ts,react,nextjs,tailwind,vite,nodejs,fastapi,firebase,aws,azure,docker,cpp,cs,tensorflow,opencv,git,github,vscode,figma&perline=10&theme=dark#gh-dark-mode-only" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=python,ts,react,nextjs,tailwind,vite,nodejs,fastapi,firebase,aws,azure,docker,cpp,cs,tensorflow,opencv,git,github,vscode,figma&perline=10&theme=light#gh-light-mode-only" alt="Tech Stack" />
+</a>
 
 </div>
 
