@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&customColorList=0d1117,00d9ff,0077b5,0d1117&height=200&section=header&text=Swetang%20Gajjar&fontSize=42&fontAlignY=35&desc=Engineering%20Manager%20%7C%20Lead%20AI%20Architect%20%7C%20Defense%20Systems%20Expert&descAlignY=55&descSize=16&fontColor=FFFFFF&animation=twinkling" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0d1117,00d9ff,8b5cf6,0d1117&height=200&section=header&text=SWETANG%20GAJJAR&fontSize=42&fontAlignY=35&desc=Engineering%20Manager%20%7C%20Lead%20AI%20Architect%20%7C%20Defense%20Systems%20Expert&descAlignY=55&descSize=16&fontColor=FFFFFF&animation=twinkling" width="100%" />
 
 <br/>
 
@@ -8,7 +8,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00D9FF&background=0A0A0A00&center=true&vCenter=true&width=600&lines=Senior+AI%2FML+Architect;RAG+%26+LLM+Systems+Specialist;Defense+Systems+Engineer;Founder+of+VastuCraft+AI+Studio" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00D9FF&background=0A0A0A00&center=true&vCenter=true&width=600&lines=Senior+AI%2FML+Architect;RAG+%26+LLM+Systems+Specialist;Defense+Systems+Engineer;Independent+AI+Consultant" alt="Typing SVG" />
 
 <br/>
 
@@ -70,50 +70,50 @@ class SwetangGajjar(SeniorAIArchitect, SystemsEngineer):
 ## 📈 Technical Leadership & Quantitative Impact
 
 <div align="center">
-  <table width="100%">
+  <table width="100%" style="border-collapse: collapse; border: none;">
     <tr>
-      <td width="33%" align="center">
-        <div style="border: 1px solid #1f2937; border-radius: 8px; padding: 15px; background: #0d1117; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
-          <h2 style="color: #00D9FF; margin: 0;">95%+</h2>
-          <p style="font-weight: bold; margin: 5px 0 0 0; color: #f3f4f6;">RAG System Accuracy</p>
-          <span style="font-size: 11px; color: #9ca3af;">Grounded Legal Document Anomaly Verification</span>
+      <td width="33%" align="center" style="border: none; padding: 0;">
+        <div style="border: 2px solid #00D9FF; border-radius: 12px; padding: 18px 10px; background: #0b111e; box-shadow: 0 4px 15px rgba(0, 217, 255, 0.18); margin: 8px; min-height: 140px;">
+          <h2 style="color: #00D9FF; margin: 0 0 6px 0; font-size: 26px; font-weight: 800;">🎯 95%+</h2>
+          <p style="font-weight: 700; margin: 4px 0; color: #f3f4f6; font-size: 14px;">RAG Accuracy</p>
+          <span style="font-size: 11px; color: #9ca3af; line-height: 1.4; display: block;">Grounded Legal Document Anomaly Verification</span>
         </div>
       </td>
-      <td width="33%" align="center">
-        <div style="border: 1px solid #1f2937; border-radius: 8px; padding: 15px; background: #0d1117; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
-          <h2 style="color: #00D9FF; margin: 0;">-30%</h2>
-          <p style="font-weight: bold; margin: 5px 0 0 0; color: #f3f4f6;">Inference Latency</p>
-          <span style="font-size: 11px; color: #9ca3af;">Scale AI LLM Fine-Tuning & Code Optimization</span>
+      <td width="33%" align="center" style="border: none; padding: 0;">
+        <div style="border: 2px solid #8B5CF6; border-radius: 12px; padding: 18px 10px; background: #0f0a1c; box-shadow: 0 4px 15px rgba(139, 92, 246, 0.18); margin: 8px; min-height: 140px;">
+          <h2 style="color: #8B5CF6; margin: 0 0 6px 0; font-size: 26px; font-weight: 800;">⚡ -30%</h2>
+          <p style="font-weight: 700; margin: 4px 0; color: #f3f4f6; font-size: 14px;">Inference Latency</p>
+          <span style="font-size: 11px; color: #9ca3af; line-height: 1.4; display: block;">Scale AI LLM Fine-Tuning & Code Optimization</span>
         </div>
       </td>
-      <td width="33%" align="center">
-        <div style="border: 1px solid #1f2937; border-radius: 8px; padding: 15px; background: #0d1117; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
-          <h2 style="color: #00D9FF; margin: 0;">40%</h2>
-          <p style="font-weight: bold; margin: 5px 0 0 0; color: #f3f4f6;">Cloud Cost Savings</p>
-          <span style="font-size: 11px; color: #9ca3af;">Through Serverless & Cloud Infrastructure Re-Architecture</span>
+      <td width="33%" align="center" style="border: none; padding: 0;">
+        <div style="border: 2px solid #10B981; border-radius: 12px; padding: 18px 10px; background: #071512; box-shadow: 0 4px 15px rgba(16, 185, 129, 0.18); margin: 8px; min-height: 140px;">
+          <h2 style="color: #10B981; margin: 0 0 6px 0; font-size: 26px; font-weight: 800;">💰 40%</h2>
+          <p style="font-weight: 700; margin: 4px 0; color: #f3f4f6; font-size: 14px;">Cloud Cost Savings</p>
+          <span style="font-size: 11px; color: #9ca3af; line-height: 1.4; display: block;">Serverless & Cloud Infrastructure Re-Architecture</span>
         </div>
       </td>
     </tr>
     <tr>
-      <td width="33%" align="center">
-        <div style="border: 1px solid #1f2937; border-radius: 8px; padding: 15px; background: #0d1117; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
-          <h2 style="color: #00D9FF; margin: 0;">99.9%</h2>
-          <p style="font-weight: bold; margin: 5px 0 0 0; color: #f3f4f6;">QA Verification</p>
-          <span style="font-size: 11px; color: #9ca3af;">MIL-STD-130N Compliant Barcode/OCR Precision</span>
+      <td width="33%" align="center" style="border: none; padding: 0;">
+        <div style="border: 2px solid #F59E0B; border-radius: 12px; padding: 18px 10px; background: #161005; box-shadow: 0 4px 15px rgba(245, 158, 11, 0.18); margin: 8px; min-height: 140px;">
+          <h2 style="color: #F59E0B; margin: 0 0 6px 0; font-size: 26px; font-weight: 800;">🛡️ 99.9%</h2>
+          <p style="font-weight: 700; margin: 4px 0; color: #f3f4f6; font-size: 14px;">QA Verification</p>
+          <span style="font-size: 11px; color: #9ca3af; line-height: 1.4; display: block;">MIL-STD-130N Compliant Barcode/OCR Precision</span>
         </div>
       </td>
-      <td width="33%" align="center">
-        <div style="border: 1px solid #1f2937; border-radius: 8px; padding: 15px; background: #0d1117; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
-          <h2 style="color: #00D9FF; margin: 0;">15+</h2>
-          <p style="font-weight: bold; margin: 5px 0 0 0; color: #f3f4f6;">Enterprise Projects</p>
-          <span style="font-size: 11px; color: #9ca3af;">Successfully Handled End-to-End Lifecycles</span>
+      <td width="33%" align="center" style="border: none; padding: 0;">
+        <div style="border: 2px solid #3B82F6; border-radius: 12px; padding: 18px 10px; background: #070e1b; box-shadow: 0 4px 15px rgba(59, 130, 246, 0.18); margin: 8px; min-height: 140px;">
+          <h2 style="color: #3B82F6; margin: 0 0 6px 0; font-size: 26px; font-weight: 800;">💼 15+</h2>
+          <p style="font-weight: 700; margin: 4px 0; color: #f3f4f6; font-size: 14px;">Enterprise Projects</p>
+          <span style="font-size: 11px; color: #9ca3af; line-height: 1.4; display: block;">Successfully Handled End-to-End Lifecycles</span>
         </div>
       </td>
-      <td width="33%" align="center">
-        <div style="border: 1px solid #1f2937; border-radius: 8px; padding: 15px; background: #0d1117; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
-          <h2 style="color: #00D9FF; margin: 0;">5+</h2>
-          <p style="font-weight: bold; margin: 5px 0 0 0; color: #f3f4f6;">Engineers Led</p>
-          <span style="font-size: 11px; color: #9ca3af;">Directed Team Delivery at Jetec Corporation</span>
+      <td width="33%" align="center" style="border: none; padding: 0;">
+        <div style="border: 2px solid #0D9488; border-radius: 12px; padding: 18px 10px; background: #051412; box-shadow: 0 4px 15px rgba(13, 148, 136, 0.18); margin: 8px; min-height: 140px;">
+          <h2 style="color: #0D9488; margin: 0 0 6px 0; font-size: 26px; font-weight: 800;">👥 5+</h2>
+          <p style="font-weight: 700; margin: 4px 0; color: #f3f4f6; font-size: 14px;">Engineers Led</p>
+          <span style="font-size: 11px; color: #9ca3af; line-height: 1.4; display: block;">Directed Team Delivery at Jetec Corporation</span>
         </div>
       </td>
     </tr>
