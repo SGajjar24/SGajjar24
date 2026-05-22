@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:8B5CF6&height=180&section=header&text=SWETANG%20GAJJAR&fontSize=40&fontAlignY=35&desc=Senior%20AI%2FML%20Engineer%20%7C%20Defense%20%26%20Forensic%20Systems%20Architect&descAlignY=55&descSize=14&fontColor=FFFFFF&animation=fadeIn&v=1.3" width="100%" />
+<img src="./assets/profile-header.svg" width="100%" alt="Swetang Gajjar Header Banner" />
 
 <br/>
 
@@ -21,7 +21,7 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00D9FF,100:8B5CF6&height=2&v=1.3" width="100%"/>
+<img src="./assets/divider.svg" width="100%" alt="divider" />
 
 ## :rocket: Executive Summary
 
@@ -64,25 +64,24 @@ class SwetangGajjar(SeniorAIArchitect, SystemsEngineer):
 
 <div align="center">
 
-[![Tech Stack](https://skillicons.dev/icons?i=python,ts,react,nextjs,tailwind,vite,nodejs,fastapi,firebase,aws,azure,docker,cpp,cs,tensorflow,opencv,git,github,vscode,figma&perline=10&theme=dark#gh-dark-mode-only)](https://skillicons.dev)
-[![Tech Stack](https://skillicons.dev/icons?i=python,ts,react,nextjs,tailwind,vite,nodejs,fastapi,firebase,aws,azure,docker,cpp,cs,tensorflow,opencv,git,github,vscode,figma&perline=10&theme=light#gh-light-mode-only)](https://skillicons.dev)
+[![Tech Stack](https://skillicons.dev/icons?i=python,ts,react,nextjs,tailwind,vite,nodejs,fastapi,firebase,aws,azure,docker,cpp,cs,tensorflow,opencv,git,github,vscode,figma&perline=10&theme=dark)](https://github.com/SGajjar24)
 
 </div>
 
 </details>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00D9FF,100:8B5CF6&height=2&v=1.3" width="100%"/>
+<img src="./assets/divider.svg" width="100%" alt="divider" />
 
 ## 🥇 Featured Systems
 
-| Project & Production Signal | Focus Domain | Primary Tech Stack | Quantitative Impact |
-| :--- | :--- | :--- | :--- |
-| **[Courtroom AI Citation Engine](https://github.com/SGajjar24/Courtroom-AI-Citation-Engine)**<br/>[![Tests](https://img.shields.io/badge/tests-passing-00D9FF?style=flat-square)](https://github.com/SGajjar24/Courtroom-AI-Citation-Engine) [![Coverage](https://img.shields.io/badge/coverage-96%25-8B5CF6?style=flat-square)](https://github.com/SGajjar24/Courtroom-AI-Citation-Engine) | **Legal Forensic AI** | `Python` `LangChain` `FAISS` `Legal NLP` | **95%+ retrieval grounding** accuracy for court filing compliance. |
-| **[Agentic Document Forensics](https://github.com/SGajjar24/Agentic-Document-Forensics)**<br/>[![Tests](https://img.shields.io/badge/tests-passing-00D9FF?style=flat-square)](https://github.com/SGajjar24/Agentic-Document-Forensics) [![Coverage](https://img.shields.io/badge/coverage-94%25-8B5CF6?style=flat-square)](https://github.com/SGajjar24/Agentic-Document-Forensics) | **Multi-Agent RAG** | `Gemini Pro` `NotebookLM` `MCP` | Automated timeline reconstruction across **20+ years of fragmented records**. |
-| **[Multilingual OCR Pipeline](https://github.com/SGajjar24/Multilingual-OCR-Pipeline)**<br/>[![Tests](https://img.shields.io/badge/tests-passing-00D9FF?style=flat-square)](https://github.com/SGajjar24/Multilingual-OCR-Pipeline) [![Coverage](https://img.shields.io/badge/coverage-91%25-8B5CF6?style=flat-square)](https://github.com/SGajjar24/Multilingual-OCR-Pipeline) | **Computer Vision** | `TensorFlow` `OpenCV` `BiLSTM` | Neural Gujarati-English segmentation with **99.9% QA precision**. |
-| **[Aether AI System Tuner](https://github.com/SGajjar24/aether-ai-tuner)**<br/>[![Tests](https://img.shields.io/badge/tests-passing-00D9FF?style=flat-square)](https://github.com/SGajjar24/aether-ai-tuner) [![Coverage](https://img.shields.io/badge/coverage-88%25-8B5CF6?style=flat-square)](https://github.com/SGajjar24/aether-ai-tuner) | **LLMOps Profiling** | `React 19` `TypeScript` `Node.js` | Real-time performance dashboard for **latency optimization**. |
-| **[Folder Intelligence CLI](https://github.com/SGajjar24/folder-intelligence)**<br/>[![Tests](https://img.shields.io/badge/tests-passing-00D9FF?style=flat-square)](https://github.com/SGajjar24/folder-intelligence) [![Coverage](https://img.shields.io/badge/coverage-95%25-8B5CF6?style=flat-square)](https://github.com/SGajjar24/folder-intelligence) | **Systems Audit** | `Python` `CLI` `Local OCR` | Automated offline structuring and indexing of major file hubs. |
-| **[THIRD-EYE (Gemini Winner)](https://github.com/SGajjar24/THIRD-EYE)**<br/>[![Tests](https://img.shields.io/badge/tests-passing-00D9FF?style=flat-square)](https://github.com/SGajjar24/THIRD-EYE) [![Award](https://img.shields.io/badge/Award-1st_Place-F59E0B?style=flat-square)](https://github.com/SGajjar24/THIRD-EYE) | **Media Authentication** | `Python` `Gemini Vision` `FAISS` | Real-time authenticity verification with **vector identity mapping**. |
+| System / Project & Domain | Key Technology Stack | Quantitative Impact & Production Signal |
+| :--- | :--- | :--- |
+| **[Courtroom AI Citation Engine](https://github.com/SGajjar24/Courtroom-AI-Citation-Engine)**<br/>`Legal Forensic AI`<br/>![Tests](https://img.shields.io/badge/tests-passing-00D9FF?style=flat-square) ![Grounding](https://img.shields.io/badge/grounding-96%25-8B5CF6?style=flat-square) | `Python` `LangChain`<br/>`FAISS` `Legal NLP` | **95%+ retrieval grounding** accuracy for court filing compliance. |
+| **[Agentic Document Forensics](https://github.com/SGajjar24/Agentic-Document-Forensics)**<br/>`Multi-Agent RAG`<br/>![Tests](https://img.shields.io/badge/tests-passing-00D9FF?style=flat-square) ![Recall](https://img.shields.io/badge/recall-94%25-8B5CF6?style=flat-square) | `Gemini Pro`<br/>`NotebookLM` `MCP` | Automated timeline reconstruction across **20+ years of fragmented records**. |
+| **[Multilingual OCR Pipeline](https://github.com/SGajjar24/Multilingual-OCR-Pipeline)**<br/>`Computer Vision`<br/>![Tests](https://img.shields.io/badge/tests-passing-00D9FF?style=flat-square) ![Precision](https://img.shields.io/badge/precision-99.9%25-8B5CF6?style=flat-square) | `TensorFlow` `OpenCV`<br/>`BiLSTM` | Neural Gujarati-English segmentation with **99.9% QA precision**. |
+| **[Aether AI System Tuner](https://github.com/SGajjar24/aether-ai-tuner)**<br/>`LLMOps Profiling`<br/>![Tests](https://img.shields.io/badge/tests-passing-00D9FF?style=flat-square) ![Latency](https://img.shields.io/badge/latency--30%25-8B5CF6?style=flat-square) | `React 19` `TypeScript`<br/>`Node.js` | Real-time performance dashboard for **latency optimization**. |
+| **[Folder Intelligence CLI](https://github.com/SGajjar24/folder-intelligence)**<br/>`Systems Audit`<br/>![Tests](https://img.shields.io/badge/tests-passing-00D9FF?style=flat-square) ![Accuracy](https://img.shields.io/badge/accuracy-95%25-8B5CF6?style=flat-square) | `Python` `CLI`<br/>`Local OCR` | Automated offline structuring and indexing of major file hubs. |
+| **[THIRD-EYE (Gemini Winner)](https://github.com/SGajjar24/THIRD-EYE)**<br/>`Media Authentication`<br/>![Tests](https://img.shields.io/badge/tests-passing-00D9FF?style=flat-square) ![Award](https://img.shields.io/badge/Award-1st_Place-F59E0B?style=flat-square) | `Python` `Gemini Vision`<br/>`FAISS` | Real-time authenticity verification with **vector identity mapping**. |
 
 <br/>
 
@@ -112,7 +111,7 @@ class SwetangGajjar(SeniorAIArchitect, SystemsEngineer):
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00D9FF,100:8B5CF6&height=2&v=1.3" width="100%"/>
+<img src="./assets/divider.svg" width="100%" alt="divider" />
 
 ## :briefcase: Professional Chronology
 * **2024 - Present**: **Senior AI/ML Architect & Consultant** — Independent RAG, legal forensic engines, neural OCR pipelines.
@@ -140,7 +139,7 @@ class SwetangGajjar(SeniorAIArchitect, SystemsEngineer):
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:8B5CF6&height=100&section=footer&v=1.3" width="100%" />
+<img src="./assets/profile-footer.svg" width="100%" alt="Swetang Gajjar Footer Banner" />
 
 *"Bridging military-grade reliability with advanced agentic intelligence — one commit at a time."*
 
