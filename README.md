@@ -58,16 +58,12 @@ class SwetangGajjar(SeniorAIArchitect, SystemsEngineer):
         }
 ```
 
-<details>
-
-
+## 🛠️ Click to Expand Full Graphical Stack Matrix
 <div align="center">
 
 [![Tech Stack](https://skillicons.dev/icons?i=python,ts,react,nextjs,tailwind,vite,nodejs,fastapi,firebase,aws,azure,docker,cpp,cs,tensorflow,opencv,git,github,vscode,figma&perline=10&theme=dark)](https://github.com/SGajjar24)
 
 </div>
-
-</details>
 
 <img src="./assets/divider.svg" width="100%" alt="divider" />
 
