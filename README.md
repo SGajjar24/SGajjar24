@@ -59,8 +59,7 @@ class SwetangGajjar(SeniorAIArchitect, SystemsEngineer):
 ```
 
 <details>
-<summary><b>🛠️ Click to Expand Full Graphical Stack Matrix</b></summary>
-<br/>
+
 
 <div align="center">
 
