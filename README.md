@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00D9FF&background=0D111700&center=true&vCenter=true&width=650&lines=Senior+AI%2FML+Architect;Agentic+RAG+%26+Forensic+Document+AI;Defense+Systems+Engineer+%28ITAR%2C+MIL-STD%29;Overall+14+%26+Years+Of+Experience;High-Reliability+Inference+Optimization&v=1.3" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00D9FF&background=0D111700&center=true&vCenter=true&width=650&lines=Senior+AI%2FML+Architect;Agentic+RAG+%26+Forensic+Document+AI;Defense+Systems+Engineer+%28ITAR%2C+MIL-STD%29;Overall+14+Years+Of+Experience;High-Reliability+Inference+Optimization&v=1.3" alt="Typing SVG" />
 
 <br/>
 
