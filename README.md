@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00D9FF&background=0D111700&center=true&vCenter=true&width=650&lines=Senior+AI%2FML+Architect;Agentic+RAG+%26+Forensic+Document+AI;Defense+Systems+Engineer+%28ITAR%2C+MIL-STD%29;Overall+14+Years+Of+Experience;High-Reliability+Inference+Optimization&v=1.3" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00D9FF&background=0D111700&center=true&vCenter=true&width=650&lines=Senior+AI%2FML+Architect;Agentic+RAG+%26+Forensic+Document+AI;Defense+Systems+Engineer+%28ITAR%2C+MIL-STD%29;Overall+11%2B+Years+Of+Experience;High-Reliability+Inference+Optimization&v=1.3" alt="Typing SVG" />
 
 <br/>
 
@@ -25,7 +25,7 @@
 
 ## :rocket: Executive Summary
 
-**Production AI systems for regulated and high-stakes domains.** Over 12 years of hands-on expertise spanning military-grade industrial systems automation (MIL-STD compliance), zero-hallucination legal forensic document intelligence, and high-performance LLM training/evaluation (RLHF).
+**Production AI systems for regulated and high-stakes domains.** Over 11 years of hands-on expertise spanning military-grade industrial systems automation (MIL-STD compliance), zero-hallucination legal forensic document intelligence, and high-performance LLM training/evaluation (RLHF).
 
 ---
 
@@ -44,7 +44,7 @@ class SwetangGajjar(SeniorAIArchitect, SystemsEngineer):
         self.location = "India | USA | Remote"
         self.education = "M.S. Computer Engineering | CSU Fullerton"
         
-        # Absolute Core Mastery (12+ Years Production Work)
+        # Absolute Core Mastery (11+ Years Production Work)
         self.expert_domain = {
             "Languages": ["Python", "C++", "C#", "SQL"],
             "AI_Infrastructure": ["Agentic Workflows", "Vector DBs (FAISS)", "LangChain", "Advanced RAG"],
@@ -109,10 +109,9 @@ class SwetangGajjar(SeniorAIArchitect, SystemsEngineer):
 <img src="./assets/divider.svg" width="100%" alt="divider" />
 
 ## :briefcase: Professional Chronology
-* **2024 - Present**: **Senior AI/ML Architect & Consultant** — Independent RAG, legal forensic engines, neural OCR pipelines.
-* **2024 - 2025**: **AI Engineer (Contract @ Scale AI)** — Fine-tuned models, RLHF, alignment benchmarks, optimized inference latency by **30%**.
-* **2017 - 2022**: **Senior Software Engineer (Jetec Corp)** — Managed team of 5, engineered **MIL-STD-130N / ITAR-compliant** tracking systems.
-* **2013 - 2017**: **MS Computer Engineering** — California State University, Fullerton.
+* **2022 - Present**: **Senior AI/ML Consultant & Evaluator** — Freelance & contract RAG architecture, LLM response evaluation, and prompt engineering (Scale AI, Outlier, Upwork). Completed **450+** model evaluation tasks.
+* **2017 - 2022**: **Senior Software Control Engineer (Jetec Corp)** — Engineered and maintained **MIL-STD-130N / ITAR-compliant** real-time control systems for defense programs (Lockheed Martin, Northrop Grumman, Raytheon).
+* **2013 - 2014**: **Junior Systems Integration Associate (HCL Infosystems)** — Early career experience in network infrastructure design and hardware testing.
 
 ---
 
